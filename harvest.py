@@ -776,6 +776,7 @@ def inqRandomNews(maxCount=1):
              else:
                #0 articles found
                print(['0 articles found, counter:',newCounter ,'ratio: ',currRatio, 'pages:', newLimit])
+               print(['counter0a',termsDF['counter']])
             else:
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
@@ -788,6 +789,7 @@ def inqRandomNews(maxCount=1):
     termsDF.loc[termsDF['index'] == crc, 'pages'] = newLimit 
     termsDF.loc[termsDF['index'] == crc, 'counter'] = newCounter 
     termsDF.loc[termsDF['index'] == crc, 'ratio'] = currRatio*0.15+ratioNew*0.85
+    print(['counter0b',termsDF['counter']])  
 
     unsearchedTerms.loc[unsearchedTerms['index'] == crc, 'unsearched'] = -1E9
     unsearchedTerms.loc[unsearchedTerms['index'] == crc, 'ratio'] = -1E9
@@ -823,6 +825,7 @@ if(len(termsDF)>50):
 if(len(termsDF)>150):
   amount = 16
 inqRandomNews(amount)
+print(['counter1',termsDF['counter']])
 
 
 
@@ -839,6 +842,7 @@ termsDF = termsDF.sort_values(by=['ratio'], ascending=False)
 print('9999999999999999999999999999')
 
 print(termsDF)
+print(['counter2',termsDF['counter']])
 termsDF.to_csv(DATA_PATH / 'terms.csv', columns=termsFields,index=False)  
 
 
