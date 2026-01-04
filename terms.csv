@@ -1,9 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'aba9de13df',extremes,Wildfire,#d60d2b,wmo,i-wildfire south africa,2025-12-02T03:41:00+00:00,South Africa,0.7535438419192066,0,1,zu,WSAF,Africa
-'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge south africa,2025-12-01T04:02:00+00:00,South Africa,0.752890002766816,0,1,zu,WSAF,Africa
-'63f0055272',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi kakhulu khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.7439286782210197,0,1,zu,WSAF,Africa
-'46757c038c',extremes,Thunderstorm,#53785a,wmo,hail south africa,2025-12-12T03:45:00+00:00,South Africa,0.6292292939524422,1,1,zu,WSAF,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge south africa,2025-12-01T04:02:00+00:00,South Africa,0.6399565023517936,1,1,zu,WSAF,Africa
+'63f0055272',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi kakhulu khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.6323393764878668,1,1,zu,WSAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2025-12-15T03:54:00+00:00,South Africa,0.5550098058992132,1,1,zu,ESAF,Africa
+'46757c038c',extremes,Thunderstorm,#53785a,wmo,hail south africa,2025-12-12T03:45:00+00:00,South Africa,0.5348448998595758,2,1,zu,WSAF,Africa
 'd26e5262a3',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2025-12-10T03:45:00+00:00,South Africa,0.4890211222179306,1,1,zu,ESAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu eningizimu afrika,2025-12-08T03:44:00+00:00,South Africa,0.4598883969015429,3,1,zu,WSAF,Africa
 '3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2025-12-14T03:49:00+00:00,Lesotho,0.4316075670253455,1,1,zu,ESAF,Africa
@@ -38,9 +37,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,ukuntuleka kwemvula ye-equatorial Guinea,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,1,zu,WAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,isiphepho ukuduma kwezulu isifuba somoya victoria,2025-12-12T03:46:00+00:00,Australia,0.3069466746055845,0,1,zu,SAU,Oceania
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,imvula ukubait,2025-12-11T03:46:00+00:00,Kuwait,0.3066341126997313,0,1,zu,ARP,Asia
-'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,downpour tanzania,2025-12-11T03:46:00+00:00,Tanzania,0.30653177231993745,0,1,zu,SEAF,Africa
-'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,imvula yase-albania,2025-12-01T04:03:00+00:00,Albania,0.30636965833800445,0,1,zu,MED,Europe
-'4455655d11',extremes,Precipitation,#d60d2b,wmo,imvula enamandla,2025-12-13T03:38:00+00:00,Maldives,0.30631935163135227,0,1,zu,EIO,Indian Ocean
+'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,downpour tanzania,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,1,zu,SEAF,Africa
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,imvula yase-albania,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,1,zu,MED,Europe
+'4455655d11',extremes,Precipitation,#d60d2b,wmo,imvula enamandla,2025-12-13T03:38:00+00:00,Maldives,0.3063193516313522,0,1,zu,EIO,Indian Ocean
 '6977afac24',extremes,Volcano,#b83202,eonet,Puracé volcano Colombia,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,zu,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,isishingishane esishisayo 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,zu,SPO,Pacific Ocean
 '53af3d9646',extremes,Drought,#edc291,edo,isomiso turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.2621197790438807,1,1,zu,WCA,Asia
