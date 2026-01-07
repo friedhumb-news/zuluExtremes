@@ -1,13 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'46757c038c',extremes,Thunderstorm,#53785a,wmo,hail south africa,2025-12-12T03:45:00+00:00,South Africa,0.7402697575911085,0,1,zu,WSAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge south africa,2025-12-01T04:02:00+00:00,South Africa,0.6399565023517936,1,1,zu,WSAF,Africa
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,isivunguvungu saseNingizimu Afrika,2025-12-07T03:47:00+00:00,South Africa,0.6378421069714961,1,1,zu,WSAF,Africa
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi kakhulu khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.6323393764878668,1,1,zu,WSAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2025-12-15T03:54:00+00:00,South Africa,0.5550098058992132,1,1,zu,ESAF,Africa
-'d04f754034',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu eningizimu afrika,2025-12-08T03:44:00+00:00,South Africa,0.4598883969015429,3,1,zu,WSAF,Africa
-'fa762f5750',extremes,Drought,#edc291,edo,ukuntuleka kwemvula lesotho,2025-11-30T03:47:00+00:00,Lesotho,0.4328286501660769,0,1,zu,ESAF,Africa
 'd26e5262a3',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2025-12-10T03:45:00+00:00,South Africa,0.4156679538852409,2,1,zu,ESAF,Africa
-'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2025-12-02T03:41:00+00:00,Lesotho,0.3763364799268595,0,1,zu,ESAF,Africa
 '3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2025-12-14T03:49:00+00:00,Lesotho,0.3668664319715436,2,1,zu,ESAF,Africa
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,i-coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,zu,SAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,isomiso sao tome and principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,1,zu,WAF,Africa
@@ -16,14 +12,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,imvula yeziqhingi ze-solomon,2025-12-11T03:46:00+00:00,Solomon Islands,0.3060589720757731,0,1,zu,EPO,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,imvula entsha yealand,2025-12-14T03:49:00+00:00,New Zealand,0.3056189716581962,0,1,zu,NZ,Oceania
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,isiphepho uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.3049937080995548,0,1,zu,SES,South-America
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,igagasi lokushisa i-argentina,2025-12-01T04:02:00+00:00,Argentina,0.3048547846706371,0,1,zu,SES,South-America
-'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,imvula esuka e-baa atoll kuya e-alif alif atoll,2025-12-04T03:42:00+00:00,Maldives,0.3048448913887066,0,1,zu,EIO,Indian Ocean
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ice canada,2025-12-02T03:41:00+00:00,Canada,0.3048247155195034,0,1,zu,NEN,North-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,isiphepho eParaguay,2025-12-02T03:41:00+00:00,Paraguay,0.3047732720976817,0,1,zu,SES,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,i-canada eqandayo,2025-12-04T03:42:00+00:00,Canada,0.3047265328247837,0,1,zu,NEN,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,isiphepho australia,2025-12-07T03:47:00+00:00,Australia,0.3047047687093496,0,1,zu,SAU,Oceania
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,imvula على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.3046985846005302,0,1,zu,SAH,Africa
-'9d50c81991',extremes,Precipitation,#d60d2b,wmo,imvula eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.3046800563325541,0,1,zu,ESAF,Africa
 '042968096b',extremes,Storm,#b3b2b1,wmo,isivunguvungu sase-Iceland,2025-12-02T03:41:00+00:00,Iceland,0.3045606836582313,0,1,zu,GIC,Europe
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2025-12-10T03:45:00+00:00,Lesotho,0.2840667229684615,3,1,zu,ESAF,Africa
 '6977afac24',extremes,Volcano,#b83202,eonet,Puracé volcano Colombia,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,zu,NWS,South-America
@@ -50,5 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4455655d11',extremes,Precipitation,#d60d2b,wmo,imvula enamandla,2025-12-13T03:38:00+00:00,Maldives,0.2603714488866493,1,1,zu,EIO,Indian Ocean
 'c72865acbd',extremes,Drought,#edc291,edo,ukuntuleka kwemvula togo,2025-12-08T03:45:00+00:00,Togo,0.2598663203079366,1,1,zu,WAF,Africa
 '0626237bf9',extremes,Flood,#030ba1,cmeter,i-tirana yezikhukhula,2025-12-06T03:33:00+00:00,Albania,0.259508438602973,1,1,zu,MED,Europe
+'9d50c81991',extremes,Precipitation,#d60d2b,wmo,imvula eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.258978047882671,1,1,zu,ESAF,Africa
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,isishingishane esishisayo 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,zu,SPO,Pacific Ocean
 '99251f8aa7',extremes,Drought,#edc291,edo,ukuntuleka kwe-liberia yemvula,2025-12-08T03:45:00+00:00,Liberia,0.223009198068272,2,1,zu,WAF,Africa
