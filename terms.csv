@@ -3,10 +3,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.5374884700146867,2,1,zu,WSAF,Africa
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,hail south africa,2025-12-12T03:45:00+00:00,South Africa,0.5348448998595758,2,1,zu,WSAF,Africa
 'd26e5262a3',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2025-12-10T03:45:00+00:00,South Africa,0.4890211222179306,1,1,zu,ESAF,Africa
+'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,imvula eNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.4056023900138737,0,1,zu,WSAF,Africa
+'aba9de13df',extremes,Wildfire,#d60d2b,wmo,i-wildfire south africa,2026-01-15T10:56:00+00:00,South Africa,0.4048624003183783,0,1,zu,WSAF,Africa
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,isivunguvungu saseNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.40358015623731136,0,1,zu,WSAF,Africa
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,imvula eNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.4031564386078608,0,1,zu,WSAF,Africa
+'969dbf1866',extremes,Precipitation,#d60d2b,wmo,imvula enamandla eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.40253446328633613,0,1,zu,WSAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2025-12-15T03:54:00+00:00,South Africa,0.4009945847621814,3,1,zu,ESAF,Africa
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,imvula eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.3994189020067912,0,1,zu,WSAF,Africa
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2025-12-10T03:45:00+00:00,Lesotho,0.393171934904445,1,1,zu,ESAF,Africa
 '3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2025-12-14T03:49:00+00:00,Lesotho,0.3668664319715436,2,1,zu,ESAF,Africa
-'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,isishingishane esishisayo 08p,2025-12-16T03:46:00+00:00,,0.26953508486057437,1,1,zu,SPO,Pacific Ocean
+'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym volcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,zu,SPO,Oceania
+'6f7179aa00',extremes,Volcano,#b83202,eonet,volcano philippines,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,zu,SEA,Asia
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,umfula ogcwele i-australia,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,zu,EAU,Oceania
+'ebe314dd99',extremes,Flood,#030ba1,aidr,izimvula ezinkulu nezikhukhula e-queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,zu,EAU,Oceania
+'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,isishingishane esishisayo 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,zu,SPO,Pacific Ocean
 'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2025-12-18T03:44:00+00:00,South Africa,0.2642114931944218,3,1,zu,ESAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,imvula yaseBrazil,2025-12-18T03:44:00+00:00,Brazil,0.2617450873728926,1,1,zu,SAM,South-America
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,imvula entsha yealand,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,1,1,zu,NZ,Oceania
@@ -21,4 +31,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,isishingishane,2026-01-15T10:20:00+00:00,,0.1460990530904548,0,1,zu,,
 'f90601fa23',extremes,Volcano,#b83202,random,ukuqhuma kwentaba-mlilo,2026-01-15T10:20:00+00:00,,0.1456038068151502,0,1,zu,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,i-glacier calving,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,1,zu,,
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,unyaka obanda kunawo wonke,2026-01-15T10:20:00+00:00,,0.12509632024197742,1,1,zu,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,unyaka obanda kunawo wonke,2026-01-15T10:20:00+00:00,,0.1250963202419774,1,1,zu,,
