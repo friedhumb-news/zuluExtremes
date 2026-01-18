@@ -1,13 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,imvula eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.771874627683726,0,1,zu,WSAF,Africa
+'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2026-01-15T12:14:00+00:00,South Africa,0.6402126533604162,0,1,zu,ESAF,Africa
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi eNingizimu Afrika,2026-01-17T03:44:00+00:00,South Africa,0.484064660451442,1,1,zu,WSAF,Africa
 '55991fb8e8',extremes,Precipitation,#d60d2b,wmo,imvula lephalale,2026-01-15T12:14:00+00:00,South Africa,0.4740259623719765,3,1,zu,WSAF,Africa
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.4625987846308801,2,1,zu,ESAF,Africa
-'d04f754034',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu eningizimu afrika,2026-01-15T12:14:00+00:00,South Africa,0.45085528115643025,3,1,zu,WSAF,Africa
+'d04f754034',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu eningizimu afrika,2026-01-15T12:14:00+00:00,South Africa,0.4508552811564302,3,1,zu,WSAF,Africa
 '5be1f4f93f',extremes,Thunderstorm,#53785a,wmo,isichotho thabazimbi,2026-01-17T03:44:00+00:00,South Africa,0.4401319607329826,2,1,zu,WSAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-01-15T10:57:00+00:00,South Africa,0.4336792647276328,1,1,zu,ESAF,Africa
 'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-01-15T12:14:00+00:00,Lesotho,0.3716995058514192,2,1,zu,ESAF,Africa
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,isivunguvungu saseNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.3430431328017146,1,1,zu,WSAF,Africa
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,hail south africa,2026-01-15T10:56:00+00:00,South Africa,0.3255335050725556,5,1,zu,WSAF,Africa
+'464d595634',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,zu,SWS,South-America
 '76ad379230',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,zu,RFE,Asia
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculi,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,zu,SEA,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba entsha zealand,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,zu,NZ,Oceania
@@ -22,9 +25,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f3b29621a',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba okumaphakathi ne-atlantic ridge,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,zu,EAO,Atlantic Ocean
 '70773b5956',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba e-Alaska,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,zu,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,zu,WCA,Asia
+'957a7a09df',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba attu station,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,zu,NPO,Pacific Ocean
+'db2a276fc1',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba aisen,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,zu,SWS,South-America
+'7e7895dc7a',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba tajikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.31979304575655804,0,1,zu,WCA,Asia
+'8710bd49ea',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba severo kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,zu,RFE,Asia
+'db5f39549c',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba indonesia,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,zu,SEA,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,zu,RFE,Asia
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,zu,EPO,Pacific Ocean
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,imvula eNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.2930477267850236,2,1,zu,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,i-wildfire south africa,2026-01-15T10:56:00+00:00,South Africa,0.2925130842300283,2,1,zu,WSAF,Africa
-'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,imvula eNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.29128052689417944,2,1,zu,WSAF,Africa
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,imvula eNingizimu Afrika,2026-01-15T10:56:00+00:00,South Africa,0.2912805268941794,2,1,zu,WSAF,Africa
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,imvula enamandla eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.2908311497243777,2,1,zu,WSAF,Africa
 '45f861329d',extremes,Landslide,#572c03,aidr,i-landslide i-adelaide hills eningizimu ye-australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,zu,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym volcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,zu,SPO,Oceania
@@ -45,7 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,zu,SES,South-America
 '23ad2bb822',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba erussia,2026-01-15T10:56:00+00:00,Russia,0.2718529952183668,1,1,zu,EAS,Asia
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.2718391678463759,1,1,zu,EAS,Asia
-'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.27183737136721964,1,1,zu,NWN,North-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.2718373713672196,1,1,zu,NWN,North-America
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.2718355863827519,1,1,zu,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,isishingishane esishisayo 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,zu,SPO,Pacific Ocean
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,imvula yaseBrazil,2025-12-18T03:44:00+00:00,Brazil,0.2617450873728926,1,1,zu,SAM,South-America
