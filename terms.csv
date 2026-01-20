@@ -1,12 +1,22 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,imvula eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.771874627683726,0,1,zu,WSAF,Africa
+'4e4b694981',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula kai !garib augrabies uyawa,2026-01-20T03:56:00+00:00,South Africa,0.7467575935583585,0,1,zu,WSAF,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge south africa,2026-01-20T03:56:00+00:00,South Africa,0.7388367375337886,0,1,zu,WSAF,Africa
+'db2a276fc1',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba aisen,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,zu,SWS,South-America
+'4ea40cfaf4',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba prince edward Islands region,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,zu,SOO,Antarctica
+'f5afb20efd',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eningizimu sandwich iziqhingi esifundeni,2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,zu,SOO,Antarctica
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba papua new guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,zu,SEA,Asia
 '0a2120b175',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba i-diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,zu,SWS,South-America
 '6628268bda',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba korla,2026-01-15T10:56:00+00:00,China,0.3197488214779085,0,1,zu,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,zu,NEAF,Africa
 '29aa7b93c5',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eningizimu yeziqhingi zasefiji,2026-01-15T10:56:00+00:00,,0.3197461987924075,0,1,zu,SPO,Pacific Ocean
 '3e36cbc783',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,zu,NWS,South-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,zu,SPO,Pacific Ocean
 '9de3c9007e',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba yakukutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,zu,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba port alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,zu,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eningizimu-mpumalanga Indian ridge,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,zu,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,zu,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eBolivia,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,zu,SES,South-America
 '5be1f4f93f',extremes,Thunderstorm,#53785a,wmo,isichotho thabazimbi,2026-01-17T03:44:00+00:00,South Africa,0.3179953416295799,4,1,zu,WSAF,Africa
 'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-01-15T12:14:00+00:00,Lesotho,0.3159445799737063,3,1,zu,ESAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-01-15T10:57:00+00:00,South Africa,0.3133332687657146,3,1,zu,ESAF,Africa
@@ -83,5 +93,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,isishingishane,2026-01-15T10:20:00+00:00,,0.1460990530904548,0,1,zu,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,i-glacier calving,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,1,zu,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,unyaka obanda kunawo wonke,2026-01-15T10:20:00+00:00,,0.1250963202419774,1,1,zu,,
-'b6cef22543',extremes,Drought,#edc291,random,ukuvinjelwa kwamanzi,2026-01-15T10:20:00+00:00,,0.12469471665914174,1,1,zu,,
-'f90601fa23',extremes,Volcano,#b83202,random,ukuqhuma kwentaba-mlilo,2026-01-15T10:20:00+00:00,,0.12376323579287767,1,1,zu,,
+'b6cef22543',extremes,Drought,#edc291,random,ukuvinjelwa kwamanzi,2026-01-15T10:20:00+00:00,,0.1246947166591417,1,1,zu,,
+'f90601fa23',extremes,Volcano,#b83202,random,ukuqhuma kwentaba-mlilo,2026-01-15T10:20:00+00:00,,0.1237632357928776,1,1,zu,,
