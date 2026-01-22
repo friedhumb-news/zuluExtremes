@@ -1,11 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,imvula eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.771874627683726,0,1,zu,WSAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge south africa,2026-01-20T03:56:00+00:00,South Africa,0.540690338110044,2,1,zu,WSAF,Africa
 '4e4b694981',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula kai !garib augrabies uyawa,2026-01-20T03:56:00+00:00,South Africa,0.539532361345914,2,1,zu,WSAF,Africa
 'daed8f4597',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba esomalia,2026-01-15T12:13:00+00:00,Somalia,0.3197224088521724,0,1,zu,NEAF,Africa
 '0b2fd57376',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eTaiwan,2026-01-15T12:13:00+00:00,Taiwan,0.3197039178556724,0,1,zu,EAS,Asia
+'da0b9741fb',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.3196988252639028,0,1,zu,SCA,North-America
 '505a53d28b',extremes,Earthquake,#870007,usgs,Ukuzamazama komhlaba port vila,2026-01-15T10:56:00+00:00,Vanuatu,0.3196954803184954,0,1,zu,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba ingelosi,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,1,zu,SPO,Pacific Ocean
 '17b150a7a2',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eTanzania,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,zu,SEAF,Africa
+'ba6e07a583',extremes,Storm,#b3b2b1,emdat,isiphepho al hasakeh governorates,2026-01-15T10:57:00+00:00,Syria,0.31968359283370695,0,1,zu,MED,Asia
+'95694d19cf',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba yemen,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,zu,NEAF,Africa
+'cc449c3731',extremes,Earthquake,#870007,usgs,isifunda seziqhingi zase-kermadec,2026-01-15T10:56:00+00:00,,0.31967654225515996,0,1,zu,SPO,Pacific Ocean
+'5484f48de4',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba phakathi kwe-Indian ridge,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,zu,SIO,Indian Ocean
+'f200ff28aa',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba e-United States,2026-01-15T10:56:00+00:00,United States,0.31967398416605053,0,1,zu,WNA,North-America
+'e98c9b3f42',extremes,Earthquake,#870007,usgs,i-earthquake drake passage,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,zu,SOO,Antarctica
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba atka,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,1,zu,NPO,Pacific Ocean
+'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba epuerto santa,2026-01-15T10:56:00+00:00,Peru,0.31966490236557776,0,1,zu,NWS,South-America
 '5be1f4f93f',extremes,Thunderstorm,#53785a,wmo,isichotho thabazimbi,2026-01-17T03:44:00+00:00,South Africa,0.3179953416295799,4,1,zu,WSAF,Africa
 'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-01-15T12:14:00+00:00,Lesotho,0.3159445799737063,3,1,zu,ESAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-01-15T10:57:00+00:00,South Africa,0.3133332687657146,3,1,zu,ESAF,Africa
@@ -76,9 +86,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9de3c9007e',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba yakukutat,2026-01-15T10:56:00+00:00,Alaska,0.2717744004149364,1,1,zu,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba port alsworth,2026-01-15T12:13:00+00:00,United States,0.2717739625015415,1,1,zu,NWN,North-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eningizimu-mpumalanga Indian ridge,2026-01-15T10:56:00+00:00,,0.2717730887011241,1,1,zu,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba baculin,2026-01-15T10:56:00+00:00,Philippines,0.27177120695531815,1,1,zu,SEA,Asia
+'0f6b56852d',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba baculin,2026-01-15T10:56:00+00:00,Philippines,0.2717712069553181,1,1,zu,SEA,Asia
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eBolivia,2026-01-15T12:13:00+00:00,Bolivia,0.2717690503530537,1,1,zu,SES,South-America
-'c797f587a9',extremes,Flood,#030ba1,aidr,izikhukhula ze-bonah queensland,2026-01-15T10:57:00+00:00,Australia,0.27176831055456796,1,1,zu,EAU,Oceania
+'c797f587a9',extremes,Flood,#030ba1,aidr,izikhukhula ze-bonah queensland,2026-01-15T10:57:00+00:00,Australia,0.2717683105545679,1,1,zu,EAU,Oceania
 '997a2e2157',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba e-argentina,2026-01-15T10:56:00+00:00,Argentina,0.2717588389408521,1,1,zu,SWS,South-America
 '90e6558608',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba eningizimu maphakathi ne-atlantic ridge,2026-01-15T10:56:00+00:00,,0.2717570180651828,1,1,zu,SAO,Atlantic Ocean
 'ad41fee440',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.2717568001644146,1,1,zu,SPO,Oceania
@@ -89,7 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,imvula enamandla eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.247206477265721,3,1,zu,WSAF,Africa
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.2414794568197233,6,1,zu,ESAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu eningizimu afrika,2026-01-15T12:14:00+00:00,South Africa,0.2353492746091637,7,1,zu,WSAF,Africa
-'6f7179aa00',extremes,Volcano,#b83202,eonet,volcano philippines,2026-01-15T10:56:00+00:00,Philippines,0.23118373154808206,2,1,zu,SEA,Asia
+'6f7179aa00',extremes,Volcano,#b83202,eonet,volcano philippines,2026-01-15T10:56:00+00:00,Philippines,0.231183731548082,2,1,zu,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,umfula ogcwele i-australia,2026-01-15T10:57:00+00:00,Australia,0.2311392746990569,2,1,zu,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,izimvula ezinkulu nezikhukhula e-queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.2311383647962844,2,1,zu,EAU,Oceania
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.2310708941998392,2,1,zu,NWN,North-America
