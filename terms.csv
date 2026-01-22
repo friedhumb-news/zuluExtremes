@@ -1,10 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4e4b694981',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula kai !garib augrabies uyawa,2026-01-20T03:56:00+00:00,South Africa,0.38981213107242285,4,1,zu,WSAF,Africa
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,imvula eningizimu afrika,2026-01-15T10:56:00+00:00,South Africa,0.771874627683726,0,1,zu,WSAF,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge south africa,2026-01-20T03:56:00+00:00,South Africa,0.7483603295640747,0,1,zu,WSAF,Africa
+'1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-01-15T10:57:00+00:00,South Africa,0.5417658162953513,0,1,zu,ESAF,Africa
+'4e4b694981',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula kai !garib augrabies uyawa,2026-01-20T03:56:00+00:00,South Africa,0.3898121310724228,4,1,zu,WSAF,Africa
+'505a53d28b',extremes,Earthquake,#870007,usgs,Ukuzamazama komhlaba port vila,2026-01-15T10:56:00+00:00,Vanuatu,0.31969548031849543,0,1,zu,SPO,Oceania
+'ba6e07a583',extremes,Storm,#b3b2b1,emdat,isiphepho al hasakeh governorates,2026-01-15T10:57:00+00:00,Syria,0.31968359283370695,0,1,zu,MED,Asia
 'cc449c3731',extremes,Earthquake,#870007,usgs,isifunda seziqhingi zase-kermadec,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,zu,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba phakathi kwe-Indian ridge,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,zu,SIO,Indian Ocean
 'f200ff28aa',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba e-United States,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,zu,WNA,North-America
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,i-earthquake drake passage,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,zu,SOO,Antarctica
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba atka,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,1,zu,NPO,Pacific Ocean
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba epuerto santa,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,zu,NWS,South-America
+'37af8de5d1',extremes,Earthquake,#870007,usgs,isifunda sase-Easter Island,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,zu,SPO,Pacific Ocean
+'d1b76ff32a',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba miyako,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,zu,EAS,Asia
+'7a3d1676da',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba ePhilippines,2026-01-15T10:56:00+00:00,Philippines,0.31965086160738715,0,1,zu,SEA,Asia
+'53e17b7a15',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba houma,2026-01-15T10:56:00+00:00,Tonga,0.31964660187957894,0,1,zu,SPO,Pacific Ocean
 '5be1f4f93f',extremes,Thunderstorm,#53785a,wmo,isichotho thabazimbi,2026-01-17T03:44:00+00:00,South Africa,0.3179953416295799,4,1,zu,WSAF,Africa
 'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-01-15T12:14:00+00:00,Lesotho,0.3159445799737063,3,1,zu,ESAF,Africa
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi eNingizimu Afrika,2026-01-17T03:44:00+00:00,South Africa,0.2972762095997417,4,1,zu,WSAF,Africa
@@ -108,4 +118,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,umfula osemkhathini,2026-01-15T10:20:00+00:00,,0.1245904085177332,1,1,zu,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,isishingishane,2026-01-15T10:20:00+00:00,,0.1241841951268865,1,1,zu,,
 'f90601fa23',extremes,Volcano,#b83202,random,ukuqhuma kwentaba-mlilo,2026-01-15T10:20:00+00:00,,0.1237632357928776,1,1,zu,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,i-glacier calving,2026-01-15T10:20:00+00:00,,0.12283349043766888,1,1,zu,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,i-glacier calving,2026-01-15T10:20:00+00:00,,0.1228334904376688,1,1,zu,,
