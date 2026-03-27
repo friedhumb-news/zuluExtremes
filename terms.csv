@@ -8,7 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45f9dc4442',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu Beaufort west,2026-03-17T04:30:00+00:00,South Africa,0.3297005102637165,5,1,zu,WSAF,Africa
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,imvula eNingizimu Afrika,2026-03-13T04:25:00+00:00,South Africa,0.3259045791590111,5,1,zu,WSAF,Africa
 'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,i-iceberg c18b,2026-03-06T04:21:00+00:00,,0.3184369510861849,0,1,zu,EAN,
-'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,i-tropical cyclone 28p,2026-03-24T04:31:00+00:00,,0.31564446099843957,0,1,zu,SPO,Pacific Ocean
+'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,i-tropical cyclone 28p,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,zu,SPO,Pacific Ocean
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,isiphepho australia,2026-03-17T04:31:00+00:00,Australia,0.3133346984513983,0,1,zu,SAU,Oceania
 '7b53ac38f5',extremes,Drought,#edc291,edo,isipelingi esomile sase-bangladesh,2026-03-23T04:42:00+00:00,Bangladesh,0.3116247424651834,0,1,zu,SAS,Asia
 'dba9977fc1',extremes,Drought,#edc291,edo,ukuntuleka kwemvula yeziqhingi zase-faroe,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,zu,NEU,Europe
@@ -20,9 +20,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,isithwathwa bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,zu,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,isivunguvungu esikhuphukayo wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,zu,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,isiphepho sikhuphuka eNew zealand,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,zu,NZ,Oceania
-'ddcce350d3',extremes,Storm,#b3b2b1,wmo,isiphepho i-auckland kanye nesiqhingi esikhulu sokuvimbela,2026-03-26T04:56:00+00:00,New Zealand,0.30728467476872445,0,1,zu,NZ,Oceania
+'ddcce350d3',extremes,Storm,#b3b2b1,wmo,isiphepho i-auckland kanye nesiqhingi esikhulu sokuvimbela,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,zu,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,isivunguvungu yanda völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,zu,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost Czechia,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,zu,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost Czechia,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,zu,WCE,Europe
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,isithwathwa oberwart,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,zu,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,i-schwaz eqandayo,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,zu,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,isivunguvungu imvula mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,zu,WCE,Europe
@@ -30,8 +30,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,i-kirchdorf an der krems eqandayo,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,zu,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,isivunguvungu sokuqubuka kwe-reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,zu,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,isivunguvungu sokuqubuka kwe-lienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,zu,WCE,Europe
-'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,isivunguvungu spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.30694846495075995,0,1,zu,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,isivunguvungu spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,zu,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,isiphepho ireland,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,zu,NEU,Europe
+'6171ca62b4',extremes,Storm,#b3b2b1,wmo,isivunguvungu esihlasela i-Ireland,2026-03-25T04:33:00+00:00,Ireland,0.3069039455676365,0,1,zu,NEU,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,ice hallein,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,zu,WCE,Europe
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,isiphepho esikhulu saudi arabia,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067320060553452,0,1,zu,ARP,Asia
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,isiphepho sikhuphuka enyakatho yeMakedoniya,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,zu,MED,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,i-iceland,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,zu,GIC,Europe
+'25908560bf',extremes,Snow&Ice,#d60d2b,wmo,i-saudi arabia eqandayo,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,zu,ARP,Asia
+'39afca9687',extremes,Storm,#b3b2b1,wmo,isiphepho skopje esifundeni,2026-03-26T04:56:00+00:00,North Macedonia,0.30625169294225174,0,1,zu,MED,Europe
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,iqhwa canada,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,zu,NEN,North-America
+'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,isifunda esiseningizimu-mpumalanga,2026-03-26T04:56:00+00:00,North Macedonia,0.30595149406355693,0,1,zu,MED,Europe
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ukushisa kwe-chile,2026-03-17T04:30:00+00:00,Chile,0.3056438465953644,0,1,zu,SWS,South-America
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,i-wildfire south africa,2026-03-20T04:26:00+00:00,South Africa,0.283253397511004,6,1,zu,WSAF,Africa
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi eNingizimu Afrika,2026-03-22T04:33:00+00:00,South Africa,0.2831524768990209,6,1,zu,WSAF,Africa
 '8c8eb3f6f5',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi kakhulu i-ratlou tswaing ottosdal,2026-03-05T04:24:00+00:00,South Africa,0.281492128977723,6,1,zu,WSAF,Africa
