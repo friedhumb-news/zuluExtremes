@@ -144,7 +144,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,inkungu eLithuania,2026-03-27T04:57:00+00:00,Lithuania,0.3037523271842445,0,1,zu,WCE,Europe
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,isifunda se-mangan se-avalanche sase-sikkim,2026-03-23T04:42:00+00:00,India,0.3037249273807105,0,1,zu,SAS,Asia
 'b265b66e10',extremes,Snow&Ice,#d60d2b,wmo,frost montenegro,2026-03-26T04:56:00+00:00,Montenegro,0.3037078038480194,0,1,zu,MED,Europe
-'355605856d',extremes,Precipitation,#d60d2b,wmo,imvula chad,2026-04-07T04:59:00+00:00,Chad,0.30359537162710626,0,1,zu,SAH,Africa
+'355605856d',extremes,Precipitation,#d60d2b,wmo,imvula chad,2026-04-07T04:59:00+00:00,Chad,0.3035953716271062,0,1,zu,SAH,Africa
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,imvula yase-brazil,2026-03-21T04:17:00+00:00,Brazil,0.3035605637146996,0,1,zu,SAM,South-America
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula uttar pradesh,2026-04-03T04:43:00+00:00,India,0.3035490178801949,0,1,zu,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula madhya pradesh,2026-04-03T04:43:00+00:00,India,0.3035460948328474,0,1,zu,SAS,Asia
@@ -266,12 +266,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35e648eba5',extremes,Heat Wave,#c40202,wmo,igagasi lokushisa idolobha lasegejiu,2026-03-31T04:59:00+00:00,China,0.3015517484743658,0,1,zu,EAS,Asia
 'dc80df776c',extremes,Snow&Ice,#d60d2b,wmo,ice sweden,2026-03-22T04:33:00+00:00,Sweden,0.3015458174945839,0,1,zu,NEU,Europe
 '24b660695f',extremes,Landslide,#572c03,wmo,i-mudslide china,2026-03-22T04:33:00+00:00,China,0.3015021354446497,0,1,zu,EAS,Asia
-'519c58c063',extremes,Flood,#030ba1,wmo,izikhukhula eNdiya,2026-03-26T04:56:00+00:00,India,0.30148956128597737,0,1,zu,SAS,Asia
+'519c58c063',extremes,Flood,#030ba1,wmo,izikhukhula eNdiya,2026-03-26T04:56:00+00:00,India,0.3014895612859773,0,1,zu,SAS,Asia
 'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,i-avalanche heiane,2026-03-21T04:17:00+00:00,Norway,0.3014298554296738,0,1,zu,NEU,Europe
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,i-cyclone australia,2026-03-19T04:35:00+00:00,Australia,0.3013879266688392,0,1,zu,CAU,Oceania
-'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,iqhwa eNorway,2026-03-21T04:17:00+00:00,Norway,0.30138736687354023,0,1,zu,NEU,Europe
+'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,iqhwa eNorway,2026-03-21T04:17:00+00:00,Norway,0.3013873668735402,0,1,zu,NEU,Europe
 'e48cdb874e',extremes,Storm,#b3b2b1,wmo,isivunguvungu sikhuphuka oberwart,2026-03-25T04:33:00+00:00,Austria,0.3013746021328079,0,1,zu,WCE,Europe
 '3ab04ce976',extremes,Precipitation,#d60d2b,wmo,imvula enkulu evimbela isiqhingi,2026-03-25T04:33:00+00:00,New Zealand,0.3013611525545415,0,1,zu,NZ,Oceania
+'42b882d252',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eDenmark,2026-04-02T04:42:00+00:00,Denmark,0.3013550459687975,0,1,zu,NEU,Europe
+'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,imvula enamandla kakhulu entshonalanga ye-motueka,2026-03-25T04:33:00+00:00,New Zealand,0.3013489342206372,0,1,zu,NZ,Oceania
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,imvula yasesaudi arabia,2026-03-19T04:35:00+00:00,Saudi Arabia,0.3013479375788524,0,1,zu,ARP,Asia
+'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,i-avalanche vest finnmark,2026-03-20T04:26:00+00:00,Norway,0.30134529257597736,0,1,zu,NEU,Europe
+'e67e09eb5d',extremes,Flood,#030ba1,wmo,isikhukhula saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.3013291172423352,0,1,zu,CNA,North-America
+'e47cddb102',extremes,Storm,#b3b2b1,wmo,isiphepho surge lienz,2026-03-25T04:33:00+00:00,Austria,0.30130590668271334,0,1,zu,WCE,Europe
+'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,i-avalanche helgeland,2026-03-20T04:26:00+00:00,Norway,0.30124858155049306,0,1,zu,NEU,Europe
+'ef8f4f660b',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba piceta,2026-04-05T05:01:00+00:00,Peru,0.30124080880352805,0,1,zu,NWS,South-America
+'23e1a35af5',extremes,Tropical Cyclone,#4f4f4f,wmo,​​i-typhoon beagle bay kuya kuribay.,2026-03-23T04:42:00+00:00,Australia,0.30119751134970507,0,1,zu,CAU,Oceania
+'62d415428e',extremes,Snow Avalanche,#deddd5,wmo,i-avalanche irkutsk esifundeni,2026-04-01T05:12:00+00:00,Russia,0.3011288944646074,0,1,zu,ESB,Europe
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,i-wildfire south africa,2026-03-20T04:26:00+00:00,South Africa,0.283253397511004,6,1,zu,WSAF,Africa
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi eNingizimu Afrika,2026-03-22T04:33:00+00:00,South Africa,0.2831524768990209,6,1,zu,WSAF,Africa
 '8c8eb3f6f5',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi kakhulu i-ratlou tswaing ottosdal,2026-03-05T04:24:00+00:00,South Africa,0.281492128977723,6,1,zu,WSAF,Africa
