@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-07-10T06:27:00+00:00,Lesotho,0.36429640514215667,0,1,zu,ESAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-06-18T07:16:00+00:00,South Africa,0.3239820194943805,4,1,zu,ESAF,Africa
+'c6a5702096',extremes,Precipitation,#d60d2b,wmo,imbiza yemvula,2026-07-10T06:27:00+00:00,Mexico,0.30724570797549805,0,1,zu,NCA,North-America
+'8d298839a5',extremes,Precipitation,#d60d2b,wmo,izimpompi zemvula ver,2026-07-10T06:27:00+00:00,Mexico,0.30722853563956937,0,1,zu,NCA,North-America
+'aec9bc79e0',extremes,Fog,#d60d2b,wmo,inkungu primorsky krai,2026-07-06T06:52:00+00:00,Russia,0.30428252455830523,0,1,zu,ESB,Europe
+'829105287e',extremes,Storm,#b3b2b1,wmo,storm jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.3015123490138555,0,1,zu,CAR,North-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,imvula yase-argentina,2026-07-09T06:27:00+00:00,Argentina,0.3014380071160221,0,1,zu,SES,South-America
+'72fa239364',extremes,Precipitation,#d60d2b,wmo,imvula enkulu dgo nay isono,2026-07-10T06:27:00+00:00,Mexico,0.3009089038484969,0,1,zu,NCA,North-America
+'66fc7fe556',extremes,Heat Wave,#c40202,wmo,ukushisa wave kude gambela,2026-07-07T06:30:00+00:00,Ethiopia,0.3004373924741479,0,1,zu,NEAF,Africa
+'1617e554bb',extremes,Storm,#b3b2b1,wmo,izindawo ezisogwini nezingaselugwini.,2026-07-10T06:27:00+00:00,Belize,0.300014645990202,0,1,zu,SCA,North-America
+'6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,i-australia eqandayo,2026-06-27T06:08:00+00:00,Australia,0.2998932314491033,0,1,zu,CAU,Oceania
 '668e74fb1c',extremes,Earthquake,#870007,usgs,i-earthquake micronesia,2026-06-23T06:32:00+00:00,Micronesia,0.2993829424081923,0,1,zu,NPO,Pacific Ocean
 'd26e5262a3',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-07-08T05:37:00+00:00,South Africa,0.2941763204450961,4,1,zu,ESAF,Africa
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,isivunguvungu saseNingizimu Afrika,2026-06-24T06:30:00+00:00,South Africa,0.2791891037944956,6,1,zu,WSAF,Africa
@@ -17,8 +27,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55688ac94f',extremes,Tropical Cyclone,#4f4f4f,wmo,​​i-tropical cyclone philippines,2026-06-24T06:30:00+00:00,Philippines,0.2546764001208925,1,1,zu,SEA,Asia
 'a828348731',extremes,Storm,#b3b2b1,wmo,isiphepho ecosta Rica,2026-06-30T06:39:00+00:00,Costa Rica,0.2546368305490398,1,1,zu,SCA,North-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,imvula enamandla e-tanzania,2026-07-06T06:52:00+00:00,Tanzania,0.2546314353261374,1,1,zu,SEAF,Africa
-'d389bc4f63',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba mexico,2026-06-29T07:12:00+00:00,Mexico,0.25452049180511943,1,1,zu,SCA,North-America
-'228e39232d',extremes,Snow&Ice,#d60d2b,wmo,i-netherlands ebanda kakhulu,2026-06-26T06:36:00+00:00,Netherlands,0.25450473775779725,1,1,zu,NEU,Europe
+'d389bc4f63',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba mexico,2026-06-29T07:12:00+00:00,Mexico,0.2545204918051194,1,1,zu,SCA,North-America
+'228e39232d',extremes,Snow&Ice,#d60d2b,wmo,i-netherlands ebanda kakhulu,2026-06-26T06:36:00+00:00,Netherlands,0.2545047377577972,1,1,zu,NEU,Europe
 'ad95215c89',extremes,Iceberg,#d60d2b,eonet,i-iceberg b22a,2026-07-09T06:27:00+00:00,Antarctica,0.2544962351522387,1,1,zu,WAN,Antarctica
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,imvula tasmania,2026-06-21T07:16:00+00:00,Australia,0.2285637342155915,2,1,zu,SAU,Oceania
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,i-iceberg d32,2026-06-24T06:29:00+00:00,,0.2250842812989743,2,1,zu,EAN,
@@ -36,7 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,isifunda semvula litoral e interandina,2026-06-18T07:16:00+00:00,Ecuador,0.2179188471128596,2,1,zu,NWS,South-America
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,isiphepho sikhuphuka eningizimu ye-iceland,2026-07-09T06:27:00+00:00,Iceland,0.2178955406368786,2,1,zu,GIC,Europe
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ice brazil,2026-07-08T05:37:00+00:00,Brazil,0.2178774847786673,2,1,zu,SAM,South-America
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,imvula yase-argentina,2026-07-09T06:27:00+00:00,Argentina,0.21750195584080773,2,1,zu,SES,South-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,imvula yase-argentina,2026-07-09T06:27:00+00:00,Argentina,0.2175019558408077,2,1,zu,SES,South-America
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,isiphepho eningizimu ye-Iceland,2026-07-08T05:37:00+00:00,Iceland,0.2174577298508827,2,1,zu,GIC,Europe
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,frost argentina,2026-06-30T06:39:00+00:00,Argentina,0.2174419219423777,2,1,zu,SES,South-America
 '9d70153cdd',extremes,Precipitation,#d60d2b,wmo,imvula embi,2026-07-04T05:59:00+00:00,Mali,0.2170671799792232,2,1,zu,SAH,Africa
@@ -199,7 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,i-wildfire antarctica,2026-06-24T06:30:00+00:00,Antarctica,0.1592711038832015,4,1,zu,EAN,
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,isiphepho esinamandla. 15 cordillera,2026-07-02T06:24:00+00:00,Chile,0.1592613300602601,4,1,zu,SWS,South-America
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,imvula enamandla i-minenie anticosti,2026-06-16T08:27:00+00:00,Canada,0.1592449775312087,4,1,zu,NEN,North-America
-'e739a7d025',extremes,Storm,#b3b2b1,wmo,isifunda sesiphepho litoral,2026-07-03T06:09:00+00:00,Ecuador,0.15923088346883485,4,1,zu,NWS,South-America
+'e739a7d025',extremes,Storm,#b3b2b1,wmo,isifunda sesiphepho litoral,2026-07-03T06:09:00+00:00,Ecuador,0.1592308834688348,4,1,zu,NWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,isiphepho eBrazil,2026-06-27T06:08:00+00:00,Brazil,0.1592066662634163,4,1,zu,SAM,South-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,i-flashflood eCanada,2026-06-22T08:39:00+00:00,Canada,0.1591278990433585,4,1,zu,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,isivunguvungu sikhuphuka eCanada,2026-06-20T06:47:00+00:00,Canada,0.15908447114533,4,1,zu,NEN,North-America
