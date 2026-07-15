@@ -1,25 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'023d124975',extremes,Drought,#edc291,edo,ukoma sri lanka,2026-06-26T06:36:00+00:00,Sri Lanka,0.3032831712873186,0,1,zu,BOB,Asia
-'493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,i-wildfire republic yase-moldova,2026-07-13T05:53:00+00:00,Republic of Moldova,0.303250884706239,0,1,zu,WCE,Europe
-'d737229c25',extremes,Snow&Ice,#d60d2b,wmo,i-chile eqandayo,2026-07-13T05:53:00+00:00,Chile,0.3029539571384551,0,1,zu,SWS,South-America
-'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,ice chile,2026-07-13T05:53:00+00:00,Chile,0.3026289729656364,0,1,zu,SWS,South-America
-'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula ulyanovsk esifundeni,2026-07-09T06:27:00+00:00,Russia,0.3026101593462736,0,1,zu,ESB,Europe
-'91a13c4ea2',extremes,Fog,#d60d2b,wmo,inkungu sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,zu,NEN,North-America
-'1c0214d974',extremes,Storm,#b3b2b1,wmo,isivunguvungu saseNingizimu Afrika,2026-06-24T06:30:00+00:00,South Africa,0.2791891037944956,6,1,zu,WSAF,Africa
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-07-12T05:43:00+00:00,Lesotho,0.2773361964148013,3,1,zu,ESAF,Africa
 'e8dcb22037',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eningizimu Afrika,2026-07-12T05:43:00+00:00,South Africa,0.2694882282521212,4,1,zu,ESAF,Africa
-'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,iqhwa b22h,2026-06-24T06:29:00+00:00,Antarctica,0.2679130219265768,1,1,zu,WAN,Antarctica
-'38e672b274',extremes,Drought,#edc291,edo,ukoma gabon,2026-07-12T05:43:00+00:00,Gabon,0.2649668071074597,1,1,zu,CAF,Africa
 'e7f7b79e1f',extremes,Drought,#edc291,edo,isomiso i-bosnia ne-herzegovina,2026-06-26T06:36:00+00:00,Bosnia and Herzegovina,0.2643116346169511,1,1,zu,MED,Europe
-'a47d8d0227',extremes,Drought,#edc291,edo,i-slovakia eyomile,2026-06-28T06:44:00+00:00,Slovakia,0.2641428207040767,2,1,zu,WCE,Europe
-'815e4bf638',extremes,Drought,#edc291,edo,ukuntuleka kwemvula elambile,2026-06-29T07:13:00+00:00,Hungary,0.2639292699159127,1,1,zu,WCE,Europe
 'b1eb375b87',extremes,Drought,#edc291,edo,ukuntuleka kwemvula uganda,2026-07-05T06:25:00+00:00,Uganda,0.2637565925368191,1,1,zu,SEAF,Africa
-'103eea7ff7',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eCzechia,2026-06-29T07:13:00+00:00,Czechia,0.2632502698510282,1,1,zu,WCE,Europe
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,ukudilika kwesigodi saseshuangyang,2026-07-14T05:14:00+00:00,China,0.2623528536804039,2,1,zu,EAS,Asia
 'b3e00f492f',extremes,Drought,#edc291,edo,isomiso belize,2026-07-13T05:53:00+00:00,Belize,0.2613825438949919,1,1,zu,SCA,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,hail canada,2026-07-09T06:27:00+00:00,Canada,0.2610650563785303,1,1,zu,NEN,North-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,imvula yase-argentina,2026-07-09T06:27:00+00:00,Argentina,0.2608008789377343,1,1,zu,SES,South-America
-'17065d269f',extremes,Drought,#edc291,edo,ukuntuleka kwemvula yaseHonduras,2026-07-07T06:30:00+00:00,Honduras,0.2607379339133089,1,1,zu,SCA,North-America
 'f3d653a8ff',extremes,Drought,#edc291,edo,ukoma comoros,2026-06-29T07:13:00+00:00,Comoros,0.260679741469508,2,1,zu,ESAF,Africa
 '83f2a9deea',extremes,Drought,#edc291,edo,i-dry spell france,2026-06-26T06:36:00+00:00,France,0.2605724659159184,1,1,zu,WCE,Europe
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,i-ox yemvula enamandla,2026-07-13T05:53:00+00:00,Mexico,0.2600581453022945,1,1,zu,NCA,North-America
@@ -27,11 +14,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2ab090487',extremes,Precipitation,#d60d2b,wmo,rain chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.2596061950181259,1,1,zu,NCA,North-America
 'fa762f5750',extremes,Drought,#edc291,edo,ukuntuleka kwemvula lesotho,2026-06-28T06:44:00+00:00,Lesotho,0.2594252329440106,4,1,zu,ESAF,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,i-dry spell Switzerland,2026-06-26T06:36:00+00:00,Switzerland,0.259380337505298,1,1,zu,WCE,Europe
-'2f30862216',extremes,Drought,#edc291,edo,i-dry spell austria,2026-07-05T06:25:00+00:00,Austria,0.25901433758722103,1,1,zu,WCE,Europe
-'335616d808',extremes,Drought,#edc291,edo,isomiso costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.25796483011626287,1,1,zu,SCA,South-America
-'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,i-frost chile,2026-07-14T05:14:00+00:00,Chile,0.25785052709611095,1,1,zu,SWS,South-America
+'2f30862216',extremes,Drought,#edc291,edo,i-dry spell austria,2026-07-05T06:25:00+00:00,Austria,0.259014337587221,1,1,zu,WCE,Europe
+'335616d808',extremes,Drought,#edc291,edo,isomiso costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.2579648301162628,1,1,zu,SCA,South-America
+'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,i-frost chile,2026-07-14T05:14:00+00:00,Chile,0.2578505270961109,1,1,zu,SWS,South-America
+'023d124975',extremes,Drought,#edc291,edo,ukoma sri lanka,2026-06-26T06:36:00+00:00,Sri Lanka,0.2577906955942208,1,1,zu,BOB,Asia
+'493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,i-wildfire republic yase-moldova,2026-07-13T05:53:00+00:00,Republic of Moldova,0.25776325200030314,1,1,zu,WCE,Europe
+'d737229c25',extremes,Snow&Ice,#d60d2b,wmo,i-chile eqandayo,2026-07-13T05:53:00+00:00,Chile,0.2575108635676868,1,1,zu,SWS,South-America
 'fa6f243498',extremes,Precipitation,#d60d2b,wmo,imvula enkulu,2026-07-14T05:14:00+00:00,Mexico,0.2575078078593348,1,1,zu,NCA,North-America
-'08945238c8',extremes,Snow&Ice,#d60d2b,wmo,iqhwa leqhwa,2026-07-14T05:14:00+00:00,Chile,0.25748898259277203,1,1,zu,SWS,South-America
+'08945238c8',extremes,Snow&Ice,#d60d2b,wmo,iqhwa leqhwa,2026-07-14T05:14:00+00:00,Chile,0.257488982592772,1,1,zu,SWS,South-America
+'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,ice chile,2026-07-13T05:53:00+00:00,Chile,0.2572346270207909,1,1,zu,SWS,South-America
+'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula ulyanovsk esifundeni,2026-07-09T06:27:00+00:00,Russia,0.25721863544433254,1,1,zu,ESB,Europe
+'91a13c4ea2',extremes,Fog,#d60d2b,wmo,inkungu sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.2571268521859747,1,1,zu,NEN,North-America
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,isiphepho sikhuphuka e-iceland,2026-07-12T05:43:00+00:00,Iceland,0.2569879993970974,1,1,zu,GIC,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,inkungu latvia,2026-07-12T05:43:00+00:00,Latvia,0.2565140020049394,1,1,zu,WCE,Europe
 '35c5babf8a',extremes,Storm,#b3b2b1,wmo,storm amazonía y norte de litoral,2026-07-12T05:43:00+00:00,Ecuador,0.2564532949367549,1,1,zu,NWS,South-America
@@ -43,21 +36,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,izindawo ezisogwini nezingaselugwini.,2026-07-10T06:27:00+00:00,Belize,0.2550124490916717,1,1,zu,SCA,North-America
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-07-11T05:27:00+00:00,South Africa,0.24350441621363,6,1,zu,ESAF,Africa
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,i-iceberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.2290589474242981,2,1,zu,WAN,Antarctica
+'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,iqhwa b22h,2026-06-24T06:29:00+00:00,Antarctica,0.22772606863759026,2,1,zu,WAN,Antarctica
+'38e672b274',extremes,Drought,#edc291,edo,ukoma gabon,2026-07-12T05:43:00+00:00,Gabon,0.22522178604134072,2,1,zu,CAF,Africa
+'a47d8d0227',extremes,Drought,#edc291,edo,i-slovakia eyomile,2026-06-28T06:44:00+00:00,Slovakia,0.22452139759846518,3,1,zu,WCE,Europe
+'815e4bf638',extremes,Drought,#edc291,edo,ukuntuleka kwemvula elambile,2026-06-29T07:13:00+00:00,Hungary,0.2243398794285258,2,1,zu,WCE,Europe
+'103eea7ff7',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eCzechia,2026-06-29T07:13:00+00:00,Czechia,0.22376272937337394,2,1,zu,WCE,Europe
 'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-07-10T06:27:00+00:00,Lesotho,0.2237235298079268,3,1,zu,ESAF,Africa
 '02bc9c64a4',extremes,Drought,#edc291,edo,ukuntuleka kwe-cambodia yemvula,2026-07-13T05:53:00+00:00,Cambodia,0.2234785260062696,2,1,zu,SEA,Asia
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,i-argentina eqandayo,2026-07-08T05:37:00+00:00,Argentina,0.2220800888974061,2,1,zu,SES,South-America
 '3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2026-06-22T08:39:00+00:00,Lesotho,0.2220728961335915,5,1,zu,ESAF,Africa
-'7f426032e8',extremes,Drought,#edc291,edo,bhutanani elomile,2026-07-04T05:59:00+00:00,Bhutan,0.22034106995899522,2,1,zu,TIB,Asia
-'7d13279eb3',extremes,Storm,#b3b2b1,wmo,storm surge jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.2196939993442259,2,1,zu,CAR,North-America
+'17065d269f',extremes,Drought,#edc291,edo,ukuntuleka kwemvula yaseHonduras,2026-07-07T06:30:00+00:00,Honduras,0.22162724382631258,2,1,zu,SCA,North-America
+'7f426032e8',extremes,Drought,#edc291,edo,bhutanani elomile,2026-07-04T05:59:00+00:00,Bhutan,0.2203410699589952,2,1,zu,TIB,Asia
 '042968096b',extremes,Storm,#b3b2b1,wmo,isivunguvungu sase-Iceland,2026-07-07T06:30:00+00:00,Iceland,0.2193515522244573,2,1,zu,GIC,Europe
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu romania,2026-06-30T06:39:00+00:00,Romania,0.2189208371688234,2,1,zu,WCE,Europe
-'9e020e244e',extremes,Drought,#edc291,edo,ukoma ePoland,2026-07-04T05:59:00+00:00,Poland,0.21891296517254177,2,1,zu,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,ukoma ePoland,2026-07-04T05:59:00+00:00,Poland,0.2189129651725417,2,1,zu,WCE,Europe
 '9296c9f081',extremes,Thunderstorm,#53785a,wmo,isichotho belarus,2026-07-09T06:27:00+00:00,Belarus,0.2179695609811442,2,1,zu,WCE,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,storm jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.2178426721625105,2,1,zu,CAR,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,imvula yase-argentina,2026-07-09T06:27:00+00:00,Argentina,0.2177889601413259,2,1,zu,SES,South-America
 'a24f5db818',extremes,Flood,#030ba1,wmo,i-souris river encane ekhukhula eduze ne-brandon,2026-07-08T05:37:00+00:00,Canada,0.2164555298683682,2,1,zu,NEN,North-America
-'d7de784867',extremes,Flood,#030ba1,wmo,izikhukhula zasePhilippines,2026-06-30T06:39:00+00:00,Philippines,0.21643156740351072,2,1,zu,SEA,Asia
-'d389bc4f63',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba mexico,2026-06-29T07:12:00+00:00,Mexico,0.2163424180343514,2,1,zu,SCA,North-America
+'d7de784867',extremes,Flood,#030ba1,wmo,izikhukhula zasePhilippines,2026-06-30T06:39:00+00:00,Philippines,0.2164315674035107,2,1,zu,SEA,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,inkungu United States,2026-06-27T06:08:00+00:00,United States,0.2163094149915359,2,1,zu,CNA,North-America
 '668e74fb1c',extremes,Earthquake,#870007,usgs,i-earthquake micronesia,2026-06-23T06:32:00+00:00,Micronesia,0.2163041758899189,2,1,zu,NPO,Pacific Ocean
 'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,iqhwa lewis lidlula sh7,2026-06-26T06:36:00+00:00,New Zealand,0.2162791720630207,2,1,zu,NZ,Oceania
@@ -102,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,isivunguvungu sikhuphuka eParaguay,2026-06-22T08:39:00+00:00,Paraguay,0.1868983597366854,3,1,zu,SES,South-America
 'aec9bc79e0',extremes,Fog,#d60d2b,wmo,inkungu primorsky krai,2026-07-06T06:52:00+00:00,Russia,0.1868675053943691,3,1,zu,ESB,Europe
 '85c98951d6',extremes,Drought,#edc291,edo,ukuntuleka kwemvula i-montenegro,2026-06-29T07:13:00+00:00,Montenegro,0.1868101215678748,3,1,zu,MED,Europe
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,storm surge jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.186739899442592,3,1,zu,CAR,North-America
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,iqhwa elisha zealand,2026-06-23T06:33:00+00:00,New Zealand,0.1864926224663061,3,1,zu,NZ,Oceania
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ice brazil,2026-07-08T05:37:00+00:00,Brazil,0.186491071719691,3,1,zu,SAM,South-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,isiphepho esihlasela i-costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.1863692643867152,3,1,zu,SCA,North-America
@@ -142,7 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,igagasi lokushisa attawapiskat inqaba albany moosonee,2026-07-06T06:52:00+00:00,Canada,0.184874792135144,3,1,zu,NEN,North-America
 '5834c8ea07',extremes,Precipitation,#d60d2b,wmo,imvula enkulu quito,2026-07-11T05:27:00+00:00,Ecuador,0.1848718539259748,3,1,zu,NWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,isivunguvungu sokuqubuka kwe-ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.1848620275305302,3,1,zu,NWS,South-America
-'9d5914f39c',extremes,Storm,#b3b2b1,wmo,isiphepho eningizimu ye-Iceland,2026-07-08T05:37:00+00:00,Iceland,0.18483907037325029,3,1,zu,GIC,Europe
+'9d5914f39c',extremes,Storm,#b3b2b1,wmo,isiphepho eningizimu ye-Iceland,2026-07-08T05:37:00+00:00,Iceland,0.1848390703732502,3,1,zu,GIC,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,igagasi lokushisa i-münster nord münster süd,2026-06-19T07:39:00+00:00,Germany,0.1848303862144718,3,1,zu,WCE,Europe
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,frost argentina,2026-06-30T06:39:00+00:00,Argentina,0.184825633651021,3,1,zu,SES,South-America
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,inkungu eLithuania,2026-07-11T05:27:00+00:00,Lithuania,0.1848081705374707,3,1,zu,WCE,Europe
@@ -201,6 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,Ukuzamazama komhlaba Chile,2026-06-27T06:08:00+00:00,Chile,0.1839166540562367,3,1,zu,SWS,South-America
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,isivunguvungu esihlasela i-algeria,2026-07-05T06:25:00+00:00,Algeria,0.1838965168551491,3,1,zu,SAH,Africa
 '5f06239387',extremes,Heat Wave,#c40202,wmo,igagasi lokushisa østjylland,2026-06-26T06:36:00+00:00,Denmark,0.1838918282540106,3,1,zu,NEU,Europe
+'d389bc4f63',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba mexico,2026-06-29T07:12:00+00:00,Mexico,0.18389105532919867,3,1,zu,SCA,North-America
 '228e39232d',extremes,Snow&Ice,#d60d2b,wmo,i-netherlands ebanda kakhulu,2026-06-26T06:36:00+00:00,Netherlands,0.1838796730300084,3,1,zu,NEU,Europe
 'ad95215c89',extremes,Iceberg,#d60d2b,eonet,i-iceberg b22a,2026-07-09T06:27:00+00:00,Antarctica,0.1838735298974924,3,1,zu,WAN,Antarctica
 '8db658717e',extremes,Flood,#030ba1,wmo,i-flashflood australia,2026-06-26T06:36:00+00:00,Australia,0.1837973573494297,3,1,zu,CAU,Oceania
@@ -210,29 +209,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,imvula tasmania,2026-06-21T07:16:00+00:00,Australia,0.1651372979707648,4,1,zu,SAU,Oceania
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,Izikhukhula tasmania ngoJuni Julayi 2016,2026-06-24T06:30:00+00:00,Australia,0.1642283502693578,4,1,zu,SAU,Oceania
 '0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,i-iceberg d33d,2026-06-30T06:39:00+00:00,,0.1636282789033011,4,1,zu,SOO,Antarctica
-'a345aca9eb',extremes,Heat Wave,#c40202,acwe,i-heatwave victoria,2026-06-20T06:47:00+00:00,Australia,0.1629544597069515,4,1,zu,SAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,isomiso madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.1613493154456946,4,1,zu,MDG,Africa
-'52e589d51e',extremes,Precipitation,#d60d2b,wmo,ina new zealand,2026-06-20T06:47:00+00:00,New Zealand,0.1610407453446151,4,1,zu,NZ,Oceania
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,imvula tanzania,2026-07-04T05:59:00+00:00,Tanzania,0.1608311866604271,4,1,zu,SEAF,Africa
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,imvula enkulu ye-coromandel peninsula,2026-06-23T06:33:00+00:00,New Zealand,0.1608187851485719,4,1,zu,NZ,Oceania
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,ukuduma kwezulu eCanada,2026-06-28T06:44:00+00:00,Canada,0.1602308793591618,4,1,zu,NEN,North-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ice argentina,2026-06-30T06:39:00+00:00,Argentina,0.1602266089707644,4,1,zu,SES,South-America
 '8f29727ea9',extremes,Drought,#edc291,edo,isomiso se-equatorial Guinea,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.1599615794022688,4,1,zu,WAF,Africa
-'92035e2c20',extremes,Drought,#edc291,edo,i-dry spell madagascar,2026-06-20T06:47:00+00:00,Madagascar,0.1597824431579799,4,1,zu,MDG,Africa
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,isimo sezulu esibi kakhulu e-algeria,2026-07-02T06:24:00+00:00,Algeria,0.1596142866652102,4,1,zu,SAH,Africa
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,i-wildfire antarctica,2026-06-24T06:30:00+00:00,Antarctica,0.1592711038832015,4,1,zu,EAN,
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,isifunda sesiphepho litoral,2026-07-03T06:09:00+00:00,Ecuador,0.1592308834688348,4,1,zu,NWS,South-America
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,ukuqhuma kwesiphepho e-argentina,2026-06-26T06:36:00+00:00,Argentina,0.15907673169911415,4,1,zu,SES,South-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,ukuqhuma kwesiphepho e-argentina,2026-06-26T06:36:00+00:00,Argentina,0.1590767316991141,4,1,zu,SES,South-America
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,i-heat wave algeria,2026-07-09T06:27:00+00:00,Algeria,0.1590096208049494,4,1,zu,SAH,Africa
-'6fd99eeafe',extremes,Storm,#b3b2b1,wmo,isivunguvungu sase-marlborough enyakatho ye-clarence,2026-06-20T06:47:00+00:00,New Zealand,0.1590026558883743,4,1,zu,NZ,Oceania
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,imvula yaseBrazil,2026-07-08T05:37:00+00:00,Brazil,0.1589252455709127,4,1,zu,SAM,South-America
 '7747997246',extremes,Fog,#d60d2b,wmo,inkungu russia,2026-06-26T06:36:00+00:00,Russia,0.1589241873795142,4,1,zu,ESB,Europe
 'af6244e0ab',extremes,Drought,#edc291,edo,ukoma nicaragua,2026-06-27T06:08:00+00:00,Nicaragua,0.1588461572363823,4,1,zu,SCA,North-America
-'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,imvula saudi arabia,2026-06-23T06:33:00+00:00,Saudi Arabia,0.1588327627156283,5,1,zu,ARP,Asia
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm higos,2026-06-24T06:29:00+00:00,,0.1588168479353658,4,1,zu,NPO,Pacific Ocean
 '3336c980ab',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba saint helena,2026-06-21T07:16:00+00:00,Saint Helena,0.1587855845723643,4,1,zu,EAO,Atlantic Ocean
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,umgwaqo obandayo womqhele,2026-06-24T06:30:00+00:00,New Zealand,0.158613122158348,4,1,zu,NZ,Oceania
-'9fdc419684',extremes,Drought,#edc291,edo,i-dry spell Czech,2026-06-20T06:47:00+00:00,Czechia,0.1584193919829309,4,1,zu,WCE,Europe
 '9044bc0335',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.1583936909146509,4,1,zu,EAO,Atlantic Ocean
 '06adbcbae1',extremes,Drought,#edc291,edo,ukoma madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.1583684824040335,4,1,zu,MDG,Africa
 '87931b9f82',extremes,Landslide,#572c03,aidr,i-mudflow australia,2026-06-27T06:09:00+00:00,Australia,0.1583082171098282,4,1,zu,EAU,Oceania
@@ -243,16 +236,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0077950340',extremes,Wildfire,#d60d2b,wmo,i-wildfire e-norway,2026-06-27T06:08:00+00:00,Norway,0.1574771413499977,4,1,zu,NEU,Europe
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitation tanzania,2026-07-04T05:59:00+00:00,Tanzania,0.1573356795906202,4,1,zu,SEAF,Africa
 'e762488b7b',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba caluula,2026-06-28T06:44:00+00:00,Somalia,0.1569079601209777,4,1,zu,NEAF,Africa
-'46b58bff76',extremes,Storm,#b3b2b1,wmo,isiphepho reg. 2 litoral reg. 3 litha,2026-06-20T06:47:00+00:00,Chile,0.15684554567429,4,1,zu,SWS,South-America
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,isivunguvungu saseMadagascar,2026-06-21T07:16:00+00:00,Madagascar,0.1567812184713106,4,1,zu,MDG,Africa
-'4dbc33b191',extremes,Wildfire,#d60d2b,wmo,isifunda somlilo sasendle sase-novosibirsk,2026-06-27T06:08:00+00:00,Russia,0.15677558353734664,4,1,zu,ESB,Europe
+'4dbc33b191',extremes,Wildfire,#d60d2b,wmo,isifunda somlilo sasendle sase-novosibirsk,2026-06-27T06:08:00+00:00,Russia,0.1567755835373466,4,1,zu,ESB,Europe
 '22bab77b3f',extremes,Storm,#b3b2b1,wmo,isivunguvungu sikhuphuka emanzini asogwini olusenyakatho.,2026-06-28T06:44:00+00:00,Vanuatu,0.1567725193618824,4,1,zu,SPO,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,isiphepho india,2026-06-30T06:39:00+00:00,India,0.1567488589450765,4,1,zu,SAS,Asia
 'e12c49e365',extremes,Storm,#b3b2b1,wmo,isiphepho sokuqubuka kwesifunda litoral e interandina,2026-06-26T06:36:00+00:00,Ecuador,0.1567375562206414,4,1,zu,NWS,South-America
 '5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,abathwali beqhwa badlula sh73,2026-06-25T06:32:00+00:00,New Zealand,0.1567205690636764,4,1,zu,NZ,Oceania
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,imvula enkulu e-ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.1567034885371158,4,1,zu,NWS,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,ice new zealand,2026-06-24T06:30:00+00:00,New Zealand,0.1566935089513716,4,1,zu,NZ,Oceania
-'e9f2e1fd37',extremes,Flood,#030ba1,wmo,izikhukhula aberfoyle,2026-06-20T06:47:00+00:00,United Kingdom,0.1566463838856852,4,1,zu,NEU,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,ukuqhuma kwesiphepho endaweni engu-1 - kumaphakathi,2026-06-28T06:44:00+00:00,Paraguay,0.1566349354731014,4,1,zu,SES,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,imvula e-ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.1566261120670554,4,1,zu,NWS,South-America
 'ecac020f22',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba la serena,2026-06-25T06:32:00+00:00,Chile,0.1566245336247746,4,1,zu,SWS,South-America
@@ -261,23 +252,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,imvula india,2026-06-30T06:39:00+00:00,India,0.1564489346877463,4,1,zu,SAS,Asia
 '1e08672b47',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba el progreso,2026-07-01T06:52:00+00:00,Mexico,0.1564405553907912,4,1,zu,NCA,North-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,isiphepho ecosta Rica,2026-06-30T06:39:00+00:00,Costa Rica,0.156378843560929,4,1,zu,SCA,North-America
-'6d9824bbc0',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula entshonalanga ye-sakha republic,2026-07-02T06:24:00+00:00,Russia,0.15633177644369903,4,1,zu,ESB,Europe
+'6d9824bbc0',extremes,Wildfire,#d60d2b,wmo,umlilo wequbula entshonalanga ye-sakha republic,2026-07-02T06:24:00+00:00,Russia,0.156331776443699,4,1,zu,ESB,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,storm tanzania,2026-07-06T06:52:00+00:00,Tanzania,0.1563199729578503,4,1,zu,SEAF,Africa
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,umlilo wequbula victoria,2026-07-04T05:59:00+00:00,Australia,0.1409226192569106,5,1,zu,SAU,Oceania
 'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,i-iceberg a76c,2026-06-24T06:29:00+00:00,Antarctica,0.1402328122178178,5,1,zu,WAN,Antarctica
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,i-iceberg d33b,2026-06-24T06:29:00+00:00,,0.1386304145920375,5,1,zu,EAN,
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,imvula esaudi arabia,2026-06-23T06:33:00+00:00,Saudi Arabia,0.1368196706843904,5,1,zu,ARP,Asia
-'a77fe28103',extremes,Precipitation,#d60d2b,wmo,i-auckland yemvula enamandla kanye nesiqhingi esikhulu sokuvimbela,2026-06-23T06:33:00+00:00,New Zealand,0.1367590526973352,5,1,zu,NZ,Oceania
 '7467da3199',extremes,Drought,#edc291,edo,isomiso gabon,2026-06-25T06:32:00+00:00,Gabon,0.136419710692776,5,1,zu,CAF,Africa
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,imvula ye-algeria,2026-06-26T06:36:00+00:00,Algeria,0.1362001383379592,5,1,zu,SAH,Africa
-'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,imvula enkulu ecosta rica,2026-06-23T06:33:00+00:00,Costa Rica,0.1359119319585433,5,1,zu,SCA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,isiphepho sase-argentina,2026-06-26T06:36:00+00:00,Argentina,0.1355985457341214,5,1,zu,SES,South-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,isiphepho esinamandla. 15 cordillera,2026-07-02T06:24:00+00:00,Chile,0.135372130551221,5,1,zu,SWS,South-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,iqhwa brazil,2026-07-05T06:25:00+00:00,Brazil,0.1352298403632648,5,1,zu,SAM,South-America
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,isifunda sesiphepho litoral e interandina,2026-06-25T06:32:00+00:00,Ecuador,0.1348509162483509,5,1,zu,NWS,South-America
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,i-wildfire republic yase-bashkortostan,2026-06-24T06:30:00+00:00,Russia,0.1348300378455343,5,1,zu,ESB,Europe
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,isiphepho مملكة البحرين والمناطق المحيطة بها,2026-06-30T06:39:00+00:00,Bahrain,0.1345017237918273,5,1,zu,ARP,Asia
-'13104e853c',extremes,Drought,#edc291,edo,i-gabon eyomile,2026-06-23T06:33:00+00:00,Gabon,0.1343438960413662,5,1,zu,CAF,Africa
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,frost australia,2026-06-24T06:30:00+00:00,Australia,0.1337618187258077,5,1,zu,CAU,Oceania
 '9778ee6716',extremes,Earthquake,#870007,usgs,ukuzamazama komhlaba yumare,2026-06-25T06:32:00+00:00,Venezuela,0.1337313112513263,5,1,zu,NSA,South-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,i-brazil eqandayo,2026-07-02T06:24:00+00:00,Brazil,0.1337312082079779,5,1,zu,SAM,South-America
@@ -288,5 +275,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,isithwathwa haast pass sh6,2026-07-04T05:59:00+00:00,New Zealand,0.115168683091493,6,1,zu,NZ,Oceania
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,isiphepho eBrazil,2026-06-27T06:08:00+00:00,Brazil,0.1150268163753182,6,1,zu,SAM,South-America
 '190bcda954',extremes,Storm,#b3b2b1,wmo,isiphepho sikhuphuka inqaba nelson,2026-07-01T06:52:00+00:00,Canada,0.1142228448017527,6,1,zu,NEN,North-America
-'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,ice australia,2026-06-26T06:36:00+00:00,Australia,0.1130123972589756,6,1,zu,CAU,Oceania
 'fa06cd330a',extremes,Landslide,#572c03,wmo,i-landslide china,2026-07-04T05:59:00+00:00,China,0.0981712651970504,7,1,zu,EAS,Asia
