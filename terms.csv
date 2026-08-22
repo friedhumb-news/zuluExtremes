@@ -1,20 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-08-01T05:42:00+00:00,South Africa,0.6725828684872377,0,1,zu,ESAF,Africa
-'93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-08-01T05:42:00+00:00,Lesotho,0.5651950816854497,0,1,zu,ESAF,Africa
-'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2026-08-21T03:30:00+00:00,South Africa,0.5512294658055422,0,1,zu,ESAF,Africa
-'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-08-03T05:58:00+00:00,Lesotho,0.5170884873477877,0,1,zu,ESAF,Africa
-'d41602be9a',extremes,Wildfire,#d60d2b,effis,Umlilo wasehlathini alto tâmega portugal,2026-08-07T09:56:00+00:00,Portugal,0.31975620554649115,0,1,zu,MED,Europe
+'93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-08-01T05:42:00+00:00,Lesotho,0.4804158194326323,1,1,zu,ESAF,Africa
+'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2026-08-21T03:30:00+00:00,South Africa,0.46854504593471086,1,1,zu,ESAF,Africa
+'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-08-03T05:58:00+00:00,Lesotho,0.4395252142456195,1,1,zu,ESAF,Africa
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,i-wildfire tunisia n.a. n.a.,2026-08-07T09:56:00+00:00,Tunisia,0.3197430577515282,0,1,zu,MED,Africa
-'2464ad564a',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.31974224675808055,0,1,zu,MED,Asia
-'3c4d29fd15',extremes,Wildfire,#d60d2b,effis,i-wild fire ireland,2026-08-07T11:06:00+00:00,Ireland,0.31974114475636883,0,1,zu,NEU,Europe
+'3c4d29fd15',extremes,Wildfire,#d60d2b,effis,i-wild fire ireland,2026-08-07T11:06:00+00:00,Ireland,0.3197411447563688,0,1,zu,NEU,Europe
 '648f46497d',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon habbouche n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3197385564974444,0,1,zu,MED,Asia
 '707bddbfca',extremes,Wildfire,#d60d2b,effis,umlilo wequbula северна македонија пелагониски prilep,2026-08-07T11:06:00+00:00,North Macedonia,0.3197352235286209,0,1,zu,MED,Europe
-'7caeebbe66',extremes,Wildfire,#d60d2b,effis,umlilo wequbula türkiye isparta n.a.,2026-08-07T09:56:00+00:00,Turkey,0.1963573857639714,3,1,zu,MED,Asia
+'d41602be9a',extremes,Wildfire,#d60d2b,effis,Umlilo wasehlathini alto tâmega portugal,2026-08-07T09:56:00+00:00,Portugal,0.2717927747145174,1,1,zu,MED,Europe
+'2464ad564a',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2717809097443684,1,1,zu,MED,Asia
 'a23bd4974c',extremes,Wildfire,#d60d2b,effis,umlilo wasendle kosovo,2026-08-07T09:56:00+00:00,Kosovo,0.1963569274269712,3,1,zu,MED,Europe
 '570b14948a',extremes,Wildfire,#d60d2b,effis,umlilo wequbula emorocco aknoul n.a.,2026-08-07T09:56:00+00:00,Morocco,0.1963566470395643,3,1,zu,MED,Africa
 'e9a96833dc',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon btaaboura n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1963562038170564,3,1,zu,MED,Asia
-'273e21ebcc',extremes,Wildfire,#d60d2b,effis,umlilo wequbula emorocco azrou n.a.,2026-08-07T11:06:00+00:00,Morocco,0.1963550155014787,3,1,zu,MED,Africa
-'ed96a847da',extremes,Wildfire,#d60d2b,effis,umlilo wequbula magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.1963538232970245,3,1,zu,WCE,Europe
 '3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2026-08-05T05:31:00+00:00,Lesotho,0.1913153026499541,5,1,zu,ESAF,Africa
 '7bc6211e3c',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi n.a. eSiriya,2026-08-07T11:06:00+00:00,Syria,0.1669147539303752,4,1,zu,MED,Asia
 '27290ff5eb',extremes,Wildfire,#d60d2b,effis,umlilo wequbula kladanj bosnia kanye ne-herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1669147392225122,4,1,zu,MED,Europe
@@ -34,8 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7b2ebe1a5',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini lebanon kboula n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669128502981386,4,1,zu,MED,Asia
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,i-bushfire portugal,2026-08-07T09:56:00+00:00,Portugal,0.1669127991257993,4,1,zu,MED,Europe
 '3ca745d421',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasehlathini,2026-08-07T09:56:00+00:00,Algeria,0.1669126533985057,4,1,zu,MED,Africa
-'be6eea75ee',extremes,Wildfire,#d60d2b,effis,i-wildfire tunisia,2026-08-07T09:56:00+00:00,Tunisia,0.1669126121595255,4,1,zu,MED,Africa
-'66954ee37f',extremes,Wildfire,#d60d2b,effis,i-bushfire bosnia ne-herzegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.1669124565017311,4,1,zu,MED,Europe
 'c759e791c4',extremes,Wildfire,#d60d2b,effis,i-wildfire hungary,2026-08-07T11:06:00+00:00,Hungary,0.1669122127436348,4,1,zu,WCE,Europe
 '2d196b98c8',extremes,Wildfire,#d60d2b,effis,i-wildfire morocco,2026-08-07T09:56:00+00:00,Morocco,0.16691216350818,4,1,zu,MED,Africa
 '7aef40d766',extremes,Wildfire,#d60d2b,effis,i-bushfire morocco,2026-08-07T09:56:00+00:00,Morocco,0.1669117623194105,5,1,zu,MED,Africa
@@ -56,7 +50,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,i-wildfire lebanon nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669082125478814,4,1,zu,MED,Asia
 '785f49402b',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon haret jandal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669081943693466,4,1,zu,MED,Asia
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,i-wild fire portugal,2026-08-07T09:56:00+00:00,Portugal,0.1669080940081244,4,1,zu,MED,Europe
-'df6e516080',extremes,Wildfire,#d60d2b,effis,i-tunisia yomlilo wehlathi,2026-08-07T11:06:00+00:00,Tunisia,0.1669079302639333,4,1,zu,MED,Africa
 '2a295685a3',extremes,Wildfire,#d60d2b,effis,umlilo wequbula srbija сpбија зајечарска област zaječar,2026-08-07T11:06:00+00:00,Serbia,0.166907862865644,4,1,zu,MED,Europe
 '38656f3f26',extremes,Wildfire,#d60d2b,effis,i-wildfire algeria n.a. n.a.,2026-08-07T09:56:00+00:00,Algeria,0.1669072261052656,4,1,zu,MED,Africa
 '7616afd0a2',extremes,Wildfire,#d60d2b,effis,i-bushfire lebanon el charkiyé n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669068265463545,4,1,zu,MED,Asia
@@ -67,11 +60,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'afda8bb534',extremes,Wildfire,#d60d2b,effis,i-bushfire lebanon bchatfine n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669050193462472,4,1,zu,MED,Asia
 '0e959f0964',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini portugal douro vila marim,2026-08-07T09:56:00+00:00,Portugal,0.1669049453547885,4,1,zu,MED,Europe
 '1b1a0d5e03',extremes,Wildfire,#d60d2b,effis,i-wildfire lebanon bazouriat n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669044326172001,4,1,zu,MED,Asia
-'74cac206cd',extremes,Wildfire,#d60d2b,effis,umlilo wasendle shqipëria elbasan prrenjas,2026-08-07T11:06:00+00:00,Albania,0.166903859647135,4,1,zu,MED,Europe
 'ce94c172f7',extremes,Wildfire,#d60d2b,effis,i-bushfire lebanon el kfour n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669038157545354,4,1,zu,MED,Asia
+'7caeebbe66',extremes,Wildfire,#d60d2b,effis,umlilo wequbula türkiye isparta n.a.,2026-08-07T09:56:00+00:00,Turkey,0.1669037778993757,4,1,zu,MED,Asia
 '7eef914348',extremes,Wildfire,#d60d2b,effis,umlilo wasendle türkiye malatya n.a.,2026-08-07T11:06:00+00:00,Turkey,0.1669034091354697,4,1,zu,MED,Asia
 '3d29c3ec38',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon hayzouk n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1669024958870263,4,1,zu,MED,Asia
 'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini tunisia n.a. n.a.,2026-08-07T11:06:00+00:00,Tunisia,0.1669018764608819,4,1,zu,MED,Africa
+'273e21ebcc',extremes,Wildfire,#d60d2b,effis,umlilo wequbula emorocco azrou n.a.,2026-08-07T11:06:00+00:00,Morocco,0.1669017631762569,4,1,zu,MED,Africa
+'ed96a847da',extremes,Wildfire,#d60d2b,effis,umlilo wequbula magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.16690074980247083,4,1,zu,WCE,Europe
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,isivunguvungu sase-melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.1645301896228753,4,1,zu,SAU,Oceania
 'e8dcb22037',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eningizimu Afrika,2026-08-05T05:31:00+00:00,South Africa,0.1596458145428883,6,1,zu,ESAF,Africa
 '12775cc05a',extremes,Drought,#edc291,wmo,isomiso brazil,2026-07-28T05:31:00+00:00,Brazil,0.159445984633667,4,1,zu,SAM,South-America
@@ -110,7 +105,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9074be8300',extremes,Wildfire,#d60d2b,effis,i-bushfire i̇zmir turkey,2026-08-07T09:56:00+00:00,Turkey,0.1418775313854311,5,1,zu,MED,Asia
 '19e2e5e511',extremes,Wildfire,#d60d2b,effis,umlilo wequbula isparta turkey,2026-08-07T09:56:00+00:00,Turkey,0.1418775305193824,5,1,zu,MED,Asia
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,umlilo wequbula монтана bulgaria,2026-08-07T09:56:00+00:00,Bulgaria,0.1418775291678538,5,1,zu,MED,Europe
-'e7298fae8f',extremes,Wildfire,#d60d2b,effis,umlilo wasendle btaaboura lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1418775283876164,5,1,zu,MED,Asia
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,umlilo wasendle i-ankara turkey,2026-08-07T11:06:00+00:00,Turkey,0.1418775282707534,5,1,zu,MED,Asia
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,i-wild fire barcelona spain,2026-08-07T11:06:00+00:00,Spain,0.1418775248072679,5,1,zu,MED,Europe
 '56932be330',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini isparta turkey,2026-08-07T11:06:00+00:00,Turkey,0.141877519655633,6,1,zu,MED,Asia
@@ -122,13 +116,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9da2e4d9fb',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi welika kladuša bosnia and herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1418775041675031,5,1,zu,WCE,Europe
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,umlilo wequbula ankoune lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1418775028544761,5,1,zu,MED,Asia
 '9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,i-wildfire mid west ireland,2026-08-07T11:06:00+00:00,Ireland,0.1418774876831238,5,1,zu,NEU,Europe
-'8fac42b03a',extremes,Wildfire,#d60d2b,effis,umlilo wasendle kahramanmaraş turkey,2026-08-07T11:06:00+00:00,Turkey,0.1418774722402247,5,1,zu,MED,Asia
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,i-bushfire malatya turkey,2026-08-07T11:06:00+00:00,Turkey,0.1418774678595907,5,1,zu,MED,Asia
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,umlilo wequbula harouf lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1418774573395653,5,1,zu,MED,Asia
 'f3ede15a48',extremes,Wildfire,#d60d2b,effis,umlilo wasendle keski suomi eFinland,2026-08-07T09:56:00+00:00,Finland,0.1418770697739099,5,1,zu,NEU,Europe
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,i-bushfire croatia,2026-08-07T11:06:00+00:00,Croatia,0.1418766210255035,5,1,zu,WCE,Europe
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,i-wildfire turkey,2026-08-07T09:56:00+00:00,Turkey,0.1418765696701117,5,1,zu,MED,Asia
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,i-wildfire romania,2026-08-07T09:56:00+00:00,Romania,0.141876492510886,5,1,zu,MED,Europe
+'be6eea75ee',extremes,Wildfire,#d60d2b,effis,i-wildfire tunisia,2026-08-07T09:56:00+00:00,Tunisia,0.14187572033559667,5,1,zu,MED,Africa
+'66954ee37f',extremes,Wildfire,#d60d2b,effis,i-bushfire bosnia ne-herzegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.14187558802647143,5,1,zu,MED,Europe
 '4595f49a65',extremes,Wildfire,#d60d2b,effis,i-wild fire spain,2026-08-07T11:06:00+00:00,Spain,0.1418754712798978,5,1,zu,MED,Europe
 '1944ae7912',extremes,Wildfire,#d60d2b,effis,i-bushfire romania,2026-08-07T09:56:00+00:00,Romania,0.141874615381648,5,1,zu,MED,Europe
 'a23c450be4',extremes,Wildfire,#d60d2b,effis,bushfire morocco bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.1418740810632246,5,1,zu,MED,Africa
@@ -138,7 +133,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,i-wildfire algeria,2026-08-07T09:56:00+00:00,Algeria,0.1418729500656669,5,1,zu,MED,Africa
 'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi северна македонија вардарски kavadarci,2026-08-07T11:06:00+00:00,North Macedonia,0.1418725337768171,5,1,zu,MED,Europe
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,i-wildfire bosnia ne-herzegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.1418721298156155,5,1,zu,MED,Europe
+'df6e516080',extremes,Wildfire,#d60d2b,effis,i-tunisia yomlilo wehlathi,2026-08-07T11:06:00+00:00,Tunisia,0.1418717407243433,5,1,zu,MED,Africa
 '9f352d30ee',extremes,Wildfire,#d60d2b,effis,i-wildfire lebanon machha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1418695362327568,5,1,zu,MED,Asia
+'74cac206cd',extremes,Wildfire,#d60d2b,effis,umlilo wasendle shqipëria elbasan prrenjas,2026-08-07T11:06:00+00:00,Albania,0.14186828070006474,5,1,zu,MED,Europe
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,isiphepho somoya onamandla kanye nemvula evictoria 2024,2026-08-04T05:32:00+00:00,Australia,0.1400305411004927,5,1,zu,SAU,Oceania
 'cbd214af74',extremes,Drought,#edc291,edo,ukoma uganda,2026-07-31T05:51:00+00:00,Uganda,0.1366127716623218,5,1,zu,SEAF,Africa
 '9ad3f02e70',extremes,Storm,#b3b2b1,wmo,isiphepho reg. 3 litha,2026-08-01T05:42:00+00:00,Chile,0.13479063454475,5,1,zu,SWS,South-America
@@ -162,7 +159,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '046de84cff',extremes,Wildfire,#d60d2b,effis,umlilo wequbula i̇zmir turkey,2026-08-07T09:56:00+00:00,Turkey,0.1205959023099866,6,1,zu,MED,Asia
 '8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,i-wildfire ankara turkey,2026-08-07T11:06:00+00:00,Turkey,0.1205959016093386,6,1,zu,MED,Asia
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,umlilo wasendle рашка област serbia,2026-08-07T11:06:00+00:00,Serbia,0.1205958997705397,6,1,zu,MED,Europe
+'e7298fae8f',extremes,Wildfire,#d60d2b,effis,umlilo wasendle btaaboura lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.12059589912947392,6,1,zu,MED,Asia
 '8cbdb17397',extremes,Wildfire,#d60d2b,effis,umlilo wasendle médio tejo portugal,2026-08-07T11:06:00+00:00,Portugal,0.1205958961734754,6,1,zu,MED,Europe
+'8fac42b03a',extremes,Wildfire,#d60d2b,effis,umlilo wasendle kahramanmaraş turkey,2026-08-07T11:06:00+00:00,Turkey,0.12059585140419099,6,1,zu,MED,Asia
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini niederösterreich süd austria,2026-08-07T11:06:00+00:00,Austria,0.1205955956431747,6,1,zu,WCE,Europe
 '38c3444fa0',extremes,Wildfire,#d60d2b,effis,umlilo wasendle мачванска област bosnia and herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1205955854183927,6,1,zu,MED,Europe
 '71c228acb5',extremes,Wildfire,#d60d2b,effis,i-wild fire turkey,2026-08-07T09:56:00+00:00,Turkey,0.1205954581860978,6,1,zu,MED,Asia
