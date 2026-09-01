@@ -1,14 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-08-29T09:19:00+00:00,South Africa,0.4719621857040543,1,1,zu,ESAF,Africa
 '3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2026-08-27T13:00:00+00:00,Lesotho,0.3934460202913483,1,1,zu,ESAF,Africa
-'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-08-28T14:32:00+00:00,Lesotho,0.3459815194660762,0,1,zu,ESAF,Africa
-'e09a5222d3',extremes,Wildfire,#d60d2b,effis,i-wildfire algeria,2026-08-27T13:00:00+00:00,Algeria,0.3159306188222281,0,1,zu,MED,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,i-wildfire tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.3157890047204932,0,1,zu,MED,Africa
 'e8dcb22037',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eningizimu Afrika,2026-08-27T13:00:00+00:00,South Africa,0.3051136423704851,4,1,zu,ESAF,Africa
+'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-08-28T14:32:00+00:00,Lesotho,0.2940842915461648,1,1,zu,ESAF,Africa
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,zu,NPO,Pacific Ocean
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-hurricane karina,2026-08-31T08:51:00+00:00,,0.2701972046121669,1,1,zu,NPO,Pacific Ocean
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,​​isiphepho esishisayo esiphansi,2026-08-31T08:51:00+00:00,,0.2701490424833305,1,1,zu,NPO,Pacific Ocean
-'9c704e4826',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.2310248041538351,2,1,zu,MED,Asia
+'e09a5222d3',extremes,Wildfire,#d60d2b,effis,i-wildfire algeria,2026-08-27T13:00:00+00:00,Algeria,0.2685410259988939,1,1,zu,MED,Africa
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,umlilo wasendle nabi youchea lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.2310238848936767,2,1,zu,MED,Asia
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini kilis syria,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,zu,MED,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi n.a. e-tunisia,2026-08-07T11:06:00+00:00,Tunisia,0.2310238800162719,2,1,zu,MED,Africa
@@ -18,11 +17,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm iselle,2026-08-25T03:27:00+00:00,,0.2289776510599,2,1,zu,NPO,Pacific Ocean
 'dd9c81b1de',extremes,Tropical Cyclone,#4f4f4f,eonet,​​isiphepho esishisayo nangka,2026-08-14T04:24:00+00:00,,0.2288802480996297,2,1,zu,NPO,Pacific Ocean
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-08-24T03:32:00+00:00,Lesotho,0.2250256460168692,5,1,zu,ESAF,Africa
-'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2026-08-21T03:30:00+00:00,South Africa,0.21300175053132048,7,1,zu,ESAF,Africa
+'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2026-08-21T03:30:00+00:00,South Africa,0.2130017505313204,7,1,zu,ESAF,Africa
+'9c704e4826',extremes,Wildfire,#d60d2b,effis,umlilo wasendle lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.19637108353075983,3,1,zu,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,i-bushfire lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1963706038902685,3,1,zu,MED,Asia
 '4e07fc8f74',extremes,Wildfire,#d60d2b,effis,umlilo wequbula habbouche lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.1963702998445468,3,1,zu,MED,Asia
-'5a0edb79f4',extremes,Tropical Cyclone,#4f4f4f,eonet,isiphepho esishisayo esingu-15w,2026-08-11T04:01:00+00:00,,0.19484282632872368,3,1,zu,NPO,Pacific Ocean
-'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,​​isiphepho esishisayo ujulio,2026-08-26T03:33:00+00:00,,0.1946141816116145,3,1,zu,NPO,Pacific Ocean
-'75e555d000',extremes,Wildfire,#d60d2b,effis,i-wildfire bosnia ne-herzegovina kladanj n.a.,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1668999702552922,4,1,zu,MED,Europe
-'284db8b7db',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi hrvatska osječko baranjska županija satnica đakovačka,2026-08-07T11:06:00+00:00,Croatia,0.166899560437341,4,1,zu,WCE,Europe
+'5a0edb79f4',extremes,Tropical Cyclone,#4f4f4f,eonet,isiphepho esishisayo esingu-15w,2026-08-11T04:01:00+00:00,,0.1948428263287236,3,1,zu,NPO,Pacific Ocean
+'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,​​isiphepho esishisayo ujulio,2026-08-26T03:33:00+00:00,,0.1654220543698723,4,1,zu,NPO,Pacific Ocean
 'fa762f5750',extremes,Drought,#edc291,edo,ukuntuleka kwemvula lesotho,2026-08-23T03:30:00+00:00,Lesotho,0.1112710718277676,7,1,zu,ESAF,Africa
