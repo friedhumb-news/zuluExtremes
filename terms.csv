@@ -1,9 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2026-08-27T13:00:00+00:00,Lesotho,0.334429117247646,2,1,zu,ESAF,Africa
 '8539144296',extremes,Wildfire,#d60d2b,effis,umlilo wasendle црна гора montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3154730564244714,0,1,zu,MED,Europe
 'e7b18ddef5',extremes,Wildfire,#d60d2b,effis,umlilo wequbula n.a. e-Ukraine,2026-08-27T13:00:00+00:00,Ukraine,0.3154555051772442,0,1,zu,WCE,Europe
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,i-wildfire romania,2026-08-27T13:00:00+00:00,Romania,0.3154338178682537,0,1,zu,WCE,Europe
-'875f042526',extremes,Wildfire,#d60d2b,effis,umlilo wequbula вардарски enyakatho yeMacedonia,2026-08-27T13:00:00+00:00,North Macedonia,0.3154088575263001,0,1,zu,MED,Europe
+'3938c0f52f',extremes,Drought,#edc291,edo,isomiso lesotho,2026-08-27T13:00:00+00:00,Lesotho,0.2842647496604991,3,1,zu,ESAF,Africa
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-hurricane lowell,2026-09-02T07:16:00+00:00,,0.2696496247709545,1,1,zu,NPO,Pacific Ocean
 '3438303391',extremes,Wildfire,#d60d2b,effis,i-bushfire montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.2683817899473092,1,1,zu,MED,Europe
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,umlilo wequbula italy,2026-08-27T13:00:00+00:00,Italy,0.2683742345778681,1,1,zu,MED,Europe
@@ -18,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,i-wildfire bosnia ne-herzegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.2681697016239982,1,1,zu,MED,Europe
 '2f03e0c694',extremes,Wildfire,#d60d2b,effis,umlilo wequbula n.a. e-tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.2681486038083228,1,1,zu,MED,Africa
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi n.a. i-algeria,2026-08-27T13:00:00+00:00,Algeria,0.2681342875729411,1,1,zu,MED,Africa
+'875f042526',extremes,Wildfire,#d60d2b,effis,umlilo wequbula вардарски enyakatho yeMacedonia,2026-08-27T13:00:00+00:00,North Macedonia,0.26809752889735505,1,1,zu,MED,Europe
 'fb84c23788',extremes,Drought,#edc291,edo,dry spell lesotho,2026-08-28T14:32:00+00:00,Lesotho,0.24997164781424,2,1,zu,ESAF,Africa
 '1397b5f4ed',extremes,Drought,#edc291,edo,ukomisa eNingizimu Afrika,2026-08-29T09:19:00+00:00,South Africa,0.2463672107011769,5,1,zu,ESAF,Africa
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini kilis syria,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,zu,MED,Asia
@@ -32,16 +32,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41cf97a25b',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm lala,2026-08-14T04:24:00+00:00,,0.2288258374451977,2,1,zu,NPO,Pacific Ocean
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,isiphepho somoya onamandla kanye nemvula evictoria 2024,2026-08-27T13:01:00+00:00,Australia,0.22860492705009,2,1,zu,SAU,Oceania
 'ec98366bcb',extremes,Flood,#030ba1,aidr,izikhukhula eningizimu-mpumalanga ye-australia 2016,2026-08-30T08:30:00+00:00,Australia,0.2284123733142926,2,1,zu,SAU,Oceania
-'a320301f76',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasendle,2026-08-27T13:00:00+00:00,Algeria,0.22830475935571773,2,1,zu,MED,Africa
+'a320301f76',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasendle,2026-08-27T13:00:00+00:00,Algeria,0.2283047593557177,2,1,zu,MED,Africa
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,i-wildfire algeria,2026-08-27T13:00:00+00:00,Algeria,0.2282598720990598,2,1,zu,MED,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,i-wildfire tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.2281575559105563,2,1,zu,MED,Africa
-'3ca745d421',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasehlathini,2026-08-27T13:00:00+00:00,Algeria,0.2281378628882396,2,1,zu,MED,Africa
-'8bf3cc433f',extremes,Wildfire,#d60d2b,effis,i-wild fire greece,2026-08-27T13:00:00+00:00,Greece,0.22809032119386516,2,1,zu,MED,Europe
+'8bf3cc433f',extremes,Wildfire,#d60d2b,effis,i-wild fire greece,2026-08-27T13:00:00+00:00,Greece,0.2280903211938651,2,1,zu,MED,Europe
 'df6e516080',extremes,Wildfire,#d60d2b,effis,i-tunisia yomlilo wehlathi,2026-08-27T13:00:00+00:00,Tunisia,0.2279874761316639,2,1,zu,MED,Africa
 '93760c82eb',extremes,Drought,#edc291,edo,ukoma lesotho,2026-08-24T03:32:00+00:00,Lesotho,0.2250256460168692,5,1,zu,ESAF,Africa
 'e8dcb22037',extremes,Drought,#edc291,edo,ukuntuleka kwemvula eningizimu Afrika,2026-08-27T13:00:00+00:00,South Africa,0.2204446066126754,6,1,zu,ESAF,Africa
 'b77aed3e2e',extremes,Drought,#edc291,edo,isomiso eningizimu Afrika,2026-08-21T03:30:00+00:00,South Africa,0.2130017505313204,7,1,zu,ESAF,Africa
-'5a0edb79f4',extremes,Tropical Cyclone,#4f4f4f,eonet,isiphepho esishisayo esingu-15w,2026-08-11T04:01:00+00:00,,0.1948428263287236,3,1,zu,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm bang lang,2026-08-31T08:51:00+00:00,,0.1946502590667652,3,1,zu,NPO,Pacific Ocean
+'3ca745d421',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasehlathini,2026-08-27T13:00:00+00:00,Algeria,0.19391718345500364,3,1,zu,MED,Africa
+'5a0edb79f4',extremes,Tropical Cyclone,#4f4f4f,eonet,isiphepho esishisayo esingu-15w,2026-08-11T04:01:00+00:00,,0.16561640237941505,4,1,zu,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,​​isiphepho esishisayo ujulio,2026-08-26T03:33:00+00:00,,0.1654220543698723,4,1,zu,NPO,Pacific Ocean
 'fa762f5750',extremes,Drought,#edc291,edo,ukuntuleka kwemvula lesotho,2026-08-23T03:30:00+00:00,Lesotho,0.0945804110536024,8,1,zu,ESAF,Africa
