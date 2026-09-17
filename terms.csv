@@ -1,11 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'08e06ab5be',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini gorj romania,2026-08-28T14:32:00+00:00,Romania,0.1918124969486715,3,1,zu,MED,Europe
-'393400b105',extremes,Drought,#edc291,edo,ukoma puerto rico,2026-08-24T03:32:00+00:00,Puerto Rico,0.1914651102917097,3,1,zu,CAR,North-America
-'a23789be55',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini românia gorj văgiuleşti,2026-08-28T14:32:00+00:00,Romania,0.1913146940919379,3,1,zu,MED,Europe
 '8e838994ae',extremes,Wildfire,#d60d2b,effis,umlilo wequbula gorj romania,2026-08-28T14:32:00+00:00,Romania,0.1911730549352782,3,1,zu,MED,Europe
 '7f1fb51449',extremes,Wildfire,#d60d2b,effis,i-wild fire bosnia ne-herzegovina zavidovići n.a.,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1911490220949557,3,1,zu,MED,Europe
-'394a9c3f9f',extremes,Wildfire,#d60d2b,effis,umlilo wequbula cluj romania,2026-08-28T14:32:00+00:00,Romania,0.1908433565769048,3,1,zu,WCE,Europe
-'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm moke,2026-08-25T03:27:00+00:00,,0.165752388746593,4,1,zu,NPO,Pacific Ocean
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm iselle,2026-08-25T03:27:00+00:00,,0.1654363528907777,4,1,zu,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,ukuduma kwezulu australia,2026-09-01T07:58:00+00:00,Australia,0.1652329273739142,4,1,zu,EAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,isiphepho somoya onamandla kanye nemvula evictoria 2024,2026-08-27T13:01:00+00:00,Australia,0.16516705979369,4,1,zu,SAU,Oceania
@@ -13,8 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,umlilo wequbula italy,2026-08-27T13:00:00+00:00,Italy,0.1648153268101331,4,1,zu,MED,Europe
 '8bf3cc433f',extremes,Wildfire,#d60d2b,effis,i-wild fire greece,2026-08-27T13:00:00+00:00,Greece,0.1647952570625674,4,1,zu,MED,Europe
 '1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,umlilo wasendle italy,2026-08-27T13:00:00+00:00,Italy,0.1647627785874237,4,1,zu,MED,Europe
-'1bc9542f90',extremes,Wildfire,#d60d2b,effis,i-wild fire bosnia ne-herzegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1647596032416097,4,1,zu,MED,Europe
-'9d1b29af9d',extremes,Wildfire,#d60d2b,effis,i-wild fire tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.1647238202717941,4,1,zu,MED,Africa
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,umlilo wequbula n.a. i-algeria,2026-08-27T13:00:00+00:00,Algeria,0.1647210212414881,4,1,zu,MED,Africa
 '61a5e9ca11',extremes,Wildfire,#d60d2b,effis,umlilo wasendle i-montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.164713853007907,4,1,zu,MED,Europe
 'fd6adbd9f6',extremes,Wildfire,#d60d2b,effis,i-wild fire ukraine,2026-08-27T13:00:00+00:00,Ukraine,0.1646985396114599,4,1,zu,WCE,Europe
@@ -51,22 +44,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fface4daec',extremes,Wildfire,#d60d2b,effis,i-bushfire bosnia ne-herzegovina trebinje n.a.,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1639414551897184,4,1,zu,MED,Europe
 'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini tunisia n.a. n.a.,2026-08-27T13:00:00+00:00,Tunisia,0.1638552401490186,4,1,zu,MED,Africa
 'be2328feba',extremes,Wildfire,#d60d2b,effis,bushfire vestfold og telemark norway,2026-08-27T13:00:00+00:00,Norway,0.1637283573870748,4,1,zu,NEU,Europe
-'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,isivunguvungu sase-melbourne victoria 2020,2026-08-26T03:34:00+00:00,Australia,0.1635774799234054,4,1,zu,SAU,Oceania
 'aeb9fdee13',extremes,Wildfire,#d60d2b,effis,umlilo wasendle δυτική αττική greece,2026-08-27T13:00:00+00:00,Greece,0.1635758794429223,4,1,zu,MED,Europe
 '763dffce88',extremes,Wildfire,#d60d2b,effis,umlilo wequbula северна македонија вардарски gradsko,2026-08-27T13:00:00+00:00,North Macedonia,0.1635720591782163,4,1,zu,MED,Europe
 '4506401924',extremes,Wildfire,#d60d2b,effis,umlilo wasendle românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.1635080808542492,4,1,zu,MED,Europe
 '02ca7e604c',extremes,Wildfire,#d60d2b,effis,i-wild fire ukraine n.a. n.a.,2026-08-27T13:00:00+00:00,Ukraine,0.1634845025168812,4,1,zu,WCE,Europe
 '1212464e8d',extremes,Wildfire,#d60d2b,effis,i-bushfire srbija сpбија јабланичка област lebane,2026-08-27T13:00:00+00:00,Serbia,0.1633658970108926,4,1,zu,MED,Europe
 '934c9595eb',extremes,Wildfire,#d60d2b,effis,i-Wild fire serbia,2026-08-28T14:32:00+00:00,Serbia,0.1633652948241226,4,1,zu,MED,Europe
-'25523ecf27',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.16327864764233246,4,1,zu,MED,Europe
+'25523ecf27',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.1632786476423324,4,1,zu,MED,Europe
 '119f96e74b',extremes,Wildfire,#d60d2b,effis,i-wild fire catanzaro italy,2026-08-27T13:00:00+00:00,Italy,0.1632573160738701,4,1,zu,MED,Europe
 '2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,umlilo wequbula e-albania,2026-08-28T14:32:00+00:00,Albania,0.1632402389410566,4,1,zu,MED,Europe
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,isiphepho australia,2026-08-27T13:00:00+00:00,Australia,0.1632346160628721,4,1,zu,CAU,Oceania
 '552d7b9dc7',extremes,Wildfire,#d60d2b,effis,i-wildfire românia tulcea chilia veche,2026-08-27T13:00:00+00:00,Romania,0.1632072656745127,4,1,zu,WCE,Europe
 'b445ee6ee0',extremes,Drought,#edc291,edo,ukoma el salvador,2026-08-27T13:00:00+00:00,El Salvador,0.1631633233702922,4,1,zu,SCA,North-America
-'5746fa4adb',extremes,Wildfire,#d60d2b,effis,i-wildfire spain,2026-08-28T14:32:00+00:00,Spain,0.16306895639564917,4,1,zu,MED,Europe
+'5746fa4adb',extremes,Wildfire,#d60d2b,effis,i-wildfire spain,2026-08-28T14:32:00+00:00,Spain,0.1630689563956491,4,1,zu,MED,Europe
+'08e06ab5be',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini gorj romania,2026-08-28T14:32:00+00:00,Romania,0.16304062240637077,4,1,zu,MED,Europe
 'f8bfd4bf9d',extremes,Wildfire,#d60d2b,effis,bushfire sibiu romania,2026-08-28T14:32:00+00:00,Romania,0.1627752397217413,4,1,zu,WCE,Europe
 '414b6dc570',extremes,Drought,#edc291,edo,ukoma guadeloupe,2026-08-25T03:27:00+00:00,Guadeloupe,0.162746890774394,4,1,zu,CAR,North-America
+'393400b105',extremes,Drought,#edc291,edo,ukoma puerto rico,2026-08-24T03:32:00+00:00,Puerto Rico,0.16274534374795324,4,1,zu,CAR,North-America
+'a23789be55',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini românia gorj văgiuleşti,2026-08-28T14:32:00+00:00,Romania,0.1626174899781472,4,1,zu,MED,Europe
+'394a9c3f9f',extremes,Wildfire,#d60d2b,effis,umlilo wequbula cluj romania,2026-08-28T14:32:00+00:00,Romania,0.16221685309036907,4,1,zu,WCE,Europe
 '334e4129ea',extremes,Wildfire,#d60d2b,effis,umlilo wasendle istočni stari grad bosnia and herzegovina,2026-08-28T14:32:00+00:00,Bosnia and Herzegovina,0.1621976526420799,4,1,zu,MED,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,isomiso belgium,2026-08-30T08:30:00+00:00,Belgium,0.1621947637291574,4,1,zu,WCE,Europe
 'a23bd4974c',extremes,Wildfire,#d60d2b,effis,umlilo wasendle kosovo,2026-08-29T09:18:00+00:00,Kosovo,0.1621875492629456,4,1,zu,MED,Europe
@@ -78,9 +74,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm bang lang,2026-08-31T08:51:00+00:00,,0.1406348121757378,5,1,zu,NPO,Pacific Ocean
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,i-wildfire algeria,2026-08-27T13:00:00+00:00,Algeria,0.140180093952835,5,1,zu,MED,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,i-wildfire tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.1401172590235703,5,1,zu,MED,Africa
-'3ca745d421',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasehlathini,2026-08-27T13:00:00+00:00,Algeria,0.14010516504624004,5,1,zu,MED,Africa
+'3ca745d421',extremes,Wildfire,#d60d2b,effis,i-algeria yomlilo wasehlathini,2026-08-27T13:00:00+00:00,Algeria,0.14010516504624,5,1,zu,MED,Africa
 '3438303391',extremes,Wildfire,#d60d2b,effis,i-bushfire montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.1400969717386824,5,1,zu,MED,Europe
 '66954ee37f',extremes,Wildfire,#d60d2b,effis,i-bushfire bosnia ne-herzegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1400802847266955,5,1,zu,MED,Europe
+'1bc9542f90',extremes,Wildfire,#d60d2b,effis,i-wild fire bosnia ne-herzegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.14004566275536826,5,1,zu,MED,Europe
+'9d1b29af9d',extremes,Wildfire,#d60d2b,effis,i-wild fire tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.140015247231025,5,1,zu,MED,Africa
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-hurricane marie,2026-09-04T07:23:00+00:00,,0.1399621026290733,5,1,zu,NPO,Pacific Ocean
 '25b712fb52',extremes,Wildfire,#d60d2b,effis,umlilo wequbula hrvatska dubrovačko neretvanska županija konavle,2026-08-27T13:00:00+00:00,Croatia,0.1397379664062144,5,1,zu,MED,Europe
 '4ff9a5d897',extremes,Wildfire,#d60d2b,effis,i-serbia yomlilo wequbula,2026-08-27T13:00:00+00:00,Serbia,0.1396729810052456,5,1,zu,MED,Europe
