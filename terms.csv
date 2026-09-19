@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4506401924',extremes,Wildfire,#d60d2b,effis,umlilo wasendle românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.1635080808542492,4,1,zu,MED,Europe
-'1212464e8d',extremes,Wildfire,#d60d2b,effis,i-bushfire srbija сpбија јабланичка област lebane,2026-08-27T13:00:00+00:00,Serbia,0.1633658970108926,4,1,zu,MED,Europe
 '25523ecf27',extremes,Wildfire,#d60d2b,effis,umlilo wehlathi северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.1632786476423324,4,1,zu,MED,Europe
 '119f96e74b',extremes,Wildfire,#d60d2b,effis,i-wild fire catanzaro italy,2026-08-27T13:00:00+00:00,Italy,0.1632573160738701,4,1,zu,MED,Europe
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,isiphepho australia,2026-08-27T13:00:00+00:00,Australia,0.1632346160628721,4,1,zu,CAU,Oceania
@@ -11,9 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a23789be55',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini românia gorj văgiuleşti,2026-08-28T14:32:00+00:00,Romania,0.1626174899781472,4,1,zu,MED,Europe
 '8e838994ae',extremes,Wildfire,#d60d2b,effis,umlilo wequbula gorj romania,2026-08-28T14:32:00+00:00,Romania,0.1624970966949864,4,1,zu,MED,Europe
 '7f1fb51449',extremes,Wildfire,#d60d2b,effis,i-wild fire bosnia ne-herzegovina zavidovići n.a.,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1624766687807123,4,1,zu,MED,Europe
-'334e4129ea',extremes,Wildfire,#d60d2b,effis,umlilo wasendle istočni stari grad bosnia and herzegovina,2026-08-28T14:32:00+00:00,Bosnia and Herzegovina,0.1621976526420799,4,1,zu,MED,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,isomiso belgium,2026-08-30T08:30:00+00:00,Belgium,0.1621947637291574,4,1,zu,WCE,Europe
-'a23bd4974c',extremes,Wildfire,#d60d2b,effis,umlilo wasendle kosovo,2026-08-29T09:18:00+00:00,Kosovo,0.1621875492629456,4,1,zu,MED,Europe
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm etau,2026-08-31T08:51:00+00:00,,0.1411677777789234,5,1,zu,NPO,Pacific Ocean
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-hurricane karina,2026-08-31T08:51:00+00:00,,0.1410446295400798,5,1,zu,NPO,Pacific Ocean
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-hurricane lowell,2026-09-02T07:16:00+00:00,,0.140758789440593,5,1,zu,NPO,Pacific Ocean
@@ -21,11 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,ukuduma kwezulu australia,2026-09-01T07:58:00+00:00,Australia,0.140447988267827,5,1,zu,EAU,Oceania
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-hurricane marie,2026-09-04T07:23:00+00:00,,0.1399621026290733,5,1,zu,NPO,Pacific Ocean
 '3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,​​i-tropical storm marie,2026-09-03T07:20:00+00:00,,0.1398946454354451,5,1,zu,NPO,Pacific Ocean
-'14dd6bd84a',extremes,Thunderstorm,#53785a,meteo,ukuduma kwezulu e-Ukraine,2026-08-28T14:32:00+00:00,Ukraine,0.1396859941424744,5,1,zu,WCE,Europe
-'934c9595eb',extremes,Wildfire,#d60d2b,effis,i-Wild fire serbia,2026-08-28T14:32:00+00:00,Serbia,0.1388605006005042,5,1,zu,MED,Europe
-'2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,umlilo wequbula e-albania,2026-08-28T14:32:00+00:00,Albania,0.1387542030998981,5,1,zu,MED,Europe
-'8199aa8c54',extremes,Wildfire,#d60d2b,effis,umlilo wasehlathini e-albania,2026-08-28T14:32:00+00:00,Albania,0.138684368917372,5,1,zu,MED,Europe
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,isehlakalo sezulu esibi kakhulu eningizimu ye-australia september 2016,2026-09-06T07:16:00+00:00,Australia,0.1385272079129682,5,1,zu,SAU,Oceania
 '8d4d1faca9',extremes,Drought,#edc291,edo,ukuntuleka kwemvula dominica,2026-09-01T07:58:00+00:00,Dominica,0.1382866163919931,5,1,zu,CAR,North-America
 'a03bfb69ba',extremes,Drought,#edc291,edo,i-dry spell Switzerland,2026-09-01T07:58:00+00:00,Switzerland,0.1379667147832622,5,1,zu,WCE,Europe
-'394a9c3f9f',extremes,Wildfire,#d60d2b,effis,umlilo wequbula cluj romania,2026-08-28T14:32:00+00:00,Romania,0.1378843251268136,5,1,zu,WCE,Europe
+'a23bd4974c',extremes,Wildfire,#d60d2b,effis,umlilo wasendle kosovo,2026-08-29T09:18:00+00:00,Kosovo,0.13785941687350375,5,1,zu,MED,Europe
